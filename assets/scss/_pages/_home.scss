@@ -1,5 +1,48 @@
-.home-banner{
-	.dnfix__thumb{
-		padding-top: 25%;
+.home{
+	&-banner{
+		.dnfix__thumb{
+			padding-top: 25%;
+		}
+	}
+	&-about{
+		padding: 60px 0;
+		background: #F8F8F8;
+		.el__title{
+			font-weight: 300;
+			font-size: 32px;
+			line-height: 37px;
+			text-align: center;
+			color: #0F2851;
+			margin-bottom: 80px;
+		}
+		.el__excerpt{
+			font-size: 18px;
+			line-height: 28px;
+			p{
+				margin-bottom: 30px;
+			}
+		}
+	}
+	&-value{
+		padding: 60px 0;
+		.el__item{
+			margin-bottom: 50px;
+			&__title{
+				display: flex;
+				align-items: center;
+				font-weight: 500;
+				font-size: 20px;
+				line-height: 30px;
+				color: #1081E8;
+				margin-bottom: 10px;
+				img{
+					margin-right: 15px;
+				}
+			}
+		}
+	}
+	&-performance{
+		padding: 60px 0;
+		background: #F8F8F8;
 	}
 }
