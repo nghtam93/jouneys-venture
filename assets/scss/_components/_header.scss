@@ -17,9 +17,9 @@
 		opacity: 0.3;
 		transform: matrix(1, 0, 0, -1, 0, 0);
 	}
-	&.is-active{
-		// background: #171C20;
-		// animation:stuckMoveDown .6s;
+	&.is-sticky{
+		position: fixed;
+		animation:stuckMoveDown .6s;
 	}
 	.logo{
 		margin-bottom: 0;
@@ -31,7 +31,7 @@
 
 
 	@media (max-width: 991px){
-		padding: 18px 0 19px;
+		padding: 15px 0 15px;
 
 		.logo {
 		    flex-grow: 1;

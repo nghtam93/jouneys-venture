@@ -126,13 +126,15 @@ $font-color: #0F2851;
     left:-414px;
     width:414px;
     opacity:0;
-    background:#17181D;
     transition:all .25s;
     z-index:999;
     font-size: 16px;
     font-weight: 400;
     pointer-events: none;
     overflow: auto;
+    background-image:url(../img/menu-bg-mb.png);
+    background-size:cover;
+
     &--close {
         position: relative;
         top: 2px;
@@ -182,17 +184,10 @@ $font-color: #0F2851;
             &.active, &.current-menu-item, &.current_page_item, &:hover{
                 &>a{
                     color: #fff;
-                    border-color: #FFB901;
+                    border-color: #fff;
                 }
             }
         }
-    }
-
-    .footer__socical {
-        position: absolute;
-        bottom: 0;
-        left: 0;
-        right: 0;
     }
 
     @media ( max-width: 575px ) {
@@ -205,24 +200,23 @@ $font-color: #0F2851;
 /**/
 .menu-mb__btn{
     display: block;
-    width: 24px;
+    width: 38px;
     height: 24px;
-    padding:4px 0;
+    // padding:4px 0;
 }
 .menu-mb__btn .iconz-bar{
-    width:20px;
+    width:38px;
     transition:all 0.2s;
-    background-color:white;
+    background-color:#0F2851;
     display:block;
-    height:2px;
+    height:4px;
+    border-radius: 5px;
 }
-.menu-mb__btn .iconz-bar+.iconz-bar{margin-top:5px;}
-.menu-mb__btn .iconz-bar:nth-of-type(2){
-    width: 12px;
-}
+.menu-mb__btn .iconz-bar+.iconz-bar{margin-top:7px;}
+
 .menu-mb__btn.active .iconz-bar:nth-of-type(1){
     -ms-transform:rotate(45deg);-webkit-transform:rotate(45deg);-moz-transform:rotate(45deg);transform:rotate(45deg);
-    -ms-transform-origin:0 0;-webkit-transform-origin:0 0;transform-origin:0 0;
+    -ms-transform-origin:15% 0;-webkit-transform-origin:15% 0;transform-origin:15% 0;
 }
 .menu-mb__btn .iconz-bar:nth-of-type(1){
     -ms-transform:rotate(0);-webkit-transform:rotate(0);-moz-transform:rotate(0);transform:rotate(0);

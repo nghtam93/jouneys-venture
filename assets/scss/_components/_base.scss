@@ -4,6 +4,9 @@ $color_primary:#5FC4E6;$color_secondary:#BEE274;
 /**/
 body{
     --header-height:88px;
+    @media (max-width: 991px){
+        --header-height:74px;
+    }
 }
 /* Slider */
 
@@ -91,5 +94,11 @@ br{
 @media (min-width: 992px){
     .g-lg-40, .gx-lg-40 {
         --bs-gutter-x: 2.5rem;
+    }
+}
+
+@media (min-width: 1400px){
+    .container-xl, .container-lg, .container-md, .container-sm, .container {
+        max-width: 1304px;
     }
 }
