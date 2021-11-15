@@ -148,6 +148,52 @@ $(document).ready(function(){
         ]
     });
 
+    $('.js-loadmore').on("click",function(e) {
+        e.preventDefault()
+        $(this).addClass('active')
+        $('.js-loadcontent').append(`
+            <div class="col-md-6 d-md-flex">
+              <div class="new__item ef--zoomin">
+                <a href="">
+                  <div class="new__item__thumb">
+                    <div class="dnfix__thumb">
+                      <img src="images/pages/insights-new-01.jpg" alt="">
+                    </div>
+                  </div>
+                  <div class="new__item__meta">
+                    <h3 class="new__item__title text__truncate -n2">Theory On Bitcoin Governance; Three Stage Model (v.1.0)</h3>
+                    <p class="new__item__author">Justin Bons, Founder and CIO</p>
+                    <div class="new__item__excerpt text__truncate -n3">
+                      A cryptocurrency such as Bitcoin needs to be able to change over time. If that was not the case it would imply some degree of perfection. When in reality no blockchain is perfect, including Bitcoin, since it is still the product of human beings. Our technical, economic and political understanding is …
+                    </div>
+                    <div class="new__item__readmore">Read more</div>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="col-md-6 d-md-flex">
+              <div class="new__item ef--zoomin">
+                <a href="">
+                  <div class="new__item__thumb">
+                    <div class="dnfix__thumb">
+                      <img src="images/pages/insights-new-02.jpg" alt="">
+                    </div>
+                  </div>
+                  <div class="new__item__meta">
+                    <h3 class="new__item__title text__truncate -n2">Alternative Infrastructure Funding Plan Proposal</h3>
+                    <p class="new__item__author">Justin Bons, Founder and CIO</p>
+                    <div class="new__item__excerpt text__truncate -n3">
+                      “As a Fund Manager applying fundamental analysis I have to be objective and apply consistent principles to the evaluation of cryptocurrency. Having been an investor in Dash, Tezos and Decred since inception gives me a good understanding of self-funding mechanisms and experience in evaluating them.”
+                    </div>
+                    <div class="new__item__readmore">Read more</div>
+                  </div>
+                </a>
+              </div>
+            </div>
+        `)
+        $(this).removeClass('active')
+    })
+
 });
 
 
