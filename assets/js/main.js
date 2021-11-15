@@ -100,13 +100,16 @@ $(document).ready(function(){
 
     //check home
     if($('body').hasClass( "home" )){
-
         new WOW().init();
+    }
+
+    if($('div').hasClass('counter')){
         $('.counter').counterUp({
             delay: 50,
             time: 3000
         });
     }
+
 
 
     $('.about-partners-slider').slick({

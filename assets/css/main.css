@@ -252,7 +252,7 @@ br.tb {
       line-height: 40px;
       font-size: 18px; } }
 
-@media (min-width: 767px) {
+@media (max-width: 767px) {
   .container-sm, .container {
     max-width: 100%; } }
 @media (min-width: 992px) {
@@ -404,7 +404,7 @@ br.tb {
     margin: 0; }
   .main__nav a {
     color: #0F2851;
-    transition: background 0.3s; }
+    transition: all 0.3s; }
   .main__nav .el__menu {
     padding: 0px 0;
     background: none; }

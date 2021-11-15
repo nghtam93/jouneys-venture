@@ -155,7 +155,7 @@ br{
     }
 }
 
-@media (min-width: 767px){
+@media (max-width: 767px){
     .container-sm, .container {
         max-width: 100%
     }
