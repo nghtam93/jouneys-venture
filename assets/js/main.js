@@ -102,8 +102,48 @@ $(document).ready(function(){
     if($('body').hasClass( "home" )){
 
         new WOW().init();
-
+        $('.counter').counterUp({
+            delay: 50,
+            time: 3000
+        });
     }
+
+
+    $('.about-partners-slider').slick({
+        slidesToShow: 4,
+        slidesToScroll: 1,
+        dots: false,
+        easing: "linear",
+        prevArrow: '<span class="icon-arrow-left slick-prev slick-arrow"></span>',
+        nextArrow: '<span class="icon-arrow-right slick-next slick-arrow"></span>',
+        autoplay: true,
+        autoplaySpeed: 2000,
+        responsive: [
+            {
+              breakpoint: 991,
+              settings: {
+                slidesToShow: 3,
+                slidesToScroll: 1,
+              }
+            },
+            {
+              breakpoint: 768,
+              settings: {
+                slidesToShow: 2,
+                slidesToScroll: 1,
+              }
+            },
+            {
+              breakpoint: 575,
+              settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1,
+                // centerMode: true,
+                variableWidth: true
+              }
+            }
+        ]
+    });
 
 });
 

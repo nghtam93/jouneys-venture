@@ -31,12 +31,8 @@
 
         padding:3px 3px;color:#1A1C25;cursor:pointer;transition:0.3s;}
     ul li + li{border-top:1px solid #cccccc;}
-    ul li:hover, ul li.active{background-color:#ededed;color:#ffffff;}
+    ul li:hover, ul li.active{background-color:#feec8f;color:#ffffff;}
 }
-
-
-
-
 
 .sc__header{
     &__title{
@@ -51,13 +47,24 @@
     &__excerpt{
         max-width: 1060px;
         margin: 0 auto 48px;
+        font-size: 18px;
+        line-height: 28px;
+        p{
+            &:not(:last-child){
+                margin-bottom: 30px;
+            }
+        }
     }
-    @media (max-width: 575px){
+    @media (max-width: 767px){
 
         &__title {
             font-size: 30px;
             line-height: 35px;
-            margin-bottom: 16px;
+            margin-bottom: 24px;
+        }
+        &__excerpt {
+            font-size: 16px;
+            line-height: 24px;
         }
     }
 
@@ -124,6 +131,8 @@
     }
     &:hover::before,&:hover::after{transform:scale3d(1,1,1);transition:transform 0.5s}
 }
+.ef--zoomin .dnfix__thumb img{-webkit-transform:scale(1);transform:scale(1);-webkit-transition:.5s ease-in-out;transition:.5s ease-in-out}
+.ef--zoomin:hover .dnfix__thumb img{-webkit-transform:scale(1.1);transform:scale(1.1)}
 
 .page__header{
     position: relative;

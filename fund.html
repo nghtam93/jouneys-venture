@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>AT-Ventures</title>
+    <title>J Ventures</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" href="images/favicon.png" />
 
@@ -12,9 +12,9 @@
     <link href="assets/css/main.css" rel="stylesheet">
 
   </head>
-  <body class="home">
+  <body class="about">
 
-    <header class="header -fix">
+    <header class="header -fix" data-toggle="sticky-onscroll">
         <div class="container d-flex align-items-center">
           <div class="d-lg-none me-3">
               <a href="#" class="menu-mb__btn">
@@ -24,222 +24,487 @@
               </a>
           </div>
 
-          <h1 class="logo">
+          <p class="logo">
             <a href="index.html">
               <img src="images/logo.png" alt="Logo">
             </a>
-          </h1>
+          </p>
           <nav class="main__nav ms-auto d-none d-lg-block">
             <ul class="el__menu">
-              <li class="menu-item"><a href="index.html">TRANG CHỦ</a></li>
-              <li class="menu-item active"><a href="about.html">GIỚI THIỆU</a></li>
-              <li class="menu-item"><a href="games.html">GAME</a></li>
-              <li class="menu-item menu-item-has-children">
-                <a href="games.html">CRYPTO</a>
-                <ul class="sub-menu">
-                  <li class="menu-item6"><a href="subcypto-1.html">Kiến thức Crypto</a></li>
-                  <li class="menu-item6"><a href="subcypto-2.html">Dành cho người mới</a></li>
-                </ul>
-              </li>
-              <li class="menu-item menu-item-has-children">
+              <li class="menu-item"><a href="index.html">Home</a></li>
+              <li class="menu-item"><a href="about.html">About</a></li>
+              <li class="menu-item active"><a href="fund.html">Fund</a></li>
+              <li class="menu-item"><a href="insights.html">Insights</a></li>
+              <li class="menu-item"><a href="blogs.html">Blogs</a></li>
+              <li class="menu-item"><a href="conact.html">Contact</a></li>
+               <li class="menu-item menu-item-has-children">
                 <a href="games.html">TIN TỨC</a>
                 <ul class="sub-menu">
                   <li class="menu-item6"><a href="subnew-1.html">Tin tức về Crypto</a></li>
                   <li class="menu-item6"><a href="subnew-2.html">Tin tức về Game</a></li>
                 </ul>
               </li>
-              <li class="menu-item"><a href="contact.html">LIÊN HỆ</a></li>
             </ul>
           </nav>
 
-          <div class="header__search">
-            <form role="search" method="get" class="search-form search__form" action="">
-              <input type="search" id="" class="search-field" placeholder="Nhập từ khóa cần tìm..." name="s" />
-              <button class="search-submit" type="submit"><span class="icon-search"></span></button>
-            </form>
+          <div class="languages">
+            <div class="languages-item"><img src="./assets/flag/en.png" alt=""></div>
+            <ul class="">
+              <li class="active"><img src="./assets/flag/en.png" alt=""></li>
+              <li><img src="./assets/flag/vi.png" alt=""></li>
+              <li><img src="./assets/flag/kr.png" alt=""></li>
+              <li><img src="./assets/flag/cn.png" alt=""></li>
+            </ul>
           </div>
 
         </div>
     </header>
 
-    <section class="page__header">
-      <h1 class="entry-title">GIỚI THIỆU</h1>
+    <section class="fund-intro">
+      <div class="container">
+
+        <div class="el__thumb">
+          <div class="dnfix__thumb">
+            <img src="images/pages/fund-banner.jpg" alt="">
+          </div>
+        </div>
+        <div class="sc__header text-center wow fadeInUp">
+          <h2 class="sc__header__title">Fund A</h2>
+        </div>
+        <div class="el__sub text-center">
+          Cyber Capital Fund A exclusively invests in cryptocurrencies with a long-term perspective, based on the premise of value investing through fundamental analysis.
+        </div>
+        <div class="el__excerpt text-center">
+          <p>The cryptocurrency market is relatively small, inefficient and extremely volatile. This allows Cyber Capital to capitalize on unique investment opportunities. It takes specific blockchain knowledge and a multidisciplinary appoach to identify valuable assets.</p>
+          <p>The fund is actively managed, rebalanced monthly and seeks to outperform BTC. To maintain full liquidity for our investors, Fund A does not invest in ICOs, go short, use leverage nor engages in intra-day trading.</p>
+        </div>
+
+        <div class="row justify-content-center">
+          <div class="col-md-6 col-lg-3 d-md-flex wow fadeInUp">
+            <div class="el__item">
+              <div class="el__item__thumb">
+                <div class="dnfix__thumb -contain">
+                  <img src="images/pages/fund-intro-ic-01.png" alt="">
+                </div>
+              </div>
+              <h3 class="el__item__title">SUMMARY</h3>
+              <div class="el__item__excerpt">
+                <ul>
+                  <li>Strategy: long-term, actively managed</li>
+                  <li>Minimum investment: €100,000</li>
+                  <li>Weekly redemption (7 days’ notice)</li>
+                  <li>Fiscally transparent for tax purposes</li>
+                  <li>Base currency: Euro (€)</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3 d-md-flex wow fadeInUp">
+            <div class="el__item">
+              <div class="el__item__thumb">
+                <div class="dnfix__thumb -contain">
+                  <img src="images/pages/fund-intro-ic-02.png" alt="">
+                </div>
+              </div>
+              <h3 class="el__item__title">  INSTITUTIONAL GRADE</h3>
+              <div class="el__item__excerpt">
+                <ul>
+                  <li>At Cyber Capital, we manage the company specific risks, related to a crypto-asset fund manager, with the following strategic partners:</li>
+                  <li>Administrator & Counterparty risk- IQ-EQ</li>
+                  <li>Liquidity & Execution risk (TBD)</li>
+                  <li>AIFMD-light registration – AFM& DNB</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3 d-md-flex wow fadeInUp">
+            <div class="el__item">
+              <div class="el__item__thumb">
+                <div class="dnfix__thumb -contain">
+                  <img src="images/pages/fund-intro-ic-03.png" alt="">
+                </div>
+              </div>
+              <h3 class="el__item__title">PARTICIPANTS</h3>
+              <div class="el__item__excerpt">
+                <ul>
+                  <li>Participants in our fund products are investors who are looking for exposure to a well secured, diversified range of cryptocurrencies, and should view their participation in the fund as a medium to long-term investment.</li>
+                  <li>Institutional & professional investors</li>
+                  <li>High Net Wort Individuals (HNWI)</li>
+                  <li>Sophisticated non-professional investors</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3 d-md-flex wow fadeInUp">
+            <div class="el__item">
+              <div class="el__item__thumb">
+                <div class="dnfix__thumb -contain">
+                  <img src="images/pages/fund-intro-ic-04.png" alt="">
+                </div>
+              </div>
+              <h3 class="el__item__title">COSTS</h3>
+              <div class="el__item__excerpt">
+                <ul>
+                  <li>2% annual fixed fee over AUM (OCF)</li>
+                  <li>20% annual profit share vs. HWM</li>
+                  <li>2% redemption fee, credited to the fund</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </section>
 
-    <section class="about-content">
+    <section class="fund-investment">
       <div class="container">
         <div class="sc__header text-center wow fadeInUp">
-          <h2 class="sc__header__title"><span>AT VENTURES</span></h2>
+          <h2 class="sc__header__title">Investment Strategy</h2>
+          <div class="sc__header__excerpt">
+            <p>Cyber Capital invests behind digital assets that address tangible use cases, generate economic benefits, demonstrate signs of product-market fit, and exhibit compelling crypto-economic models. We use fundamental analysis to select investments based on thorough due diligence, examining token valuation, technical protocol level research, on-chain data analytics, and active engagement with management and developer teams.</p>
+            <p>We strive to keep the portfolio closely in line with the maturity and market attractiveness of each of these segments. Investments in every segment are diversified over one or more cryptocurrencies, depending on their relative strength and our expectation of them to eventually outperform the index. The fund is currently mostly invested in the protocol and network layers as we expect those to benefit most of the network effects, and because the application layer is still significantly less mature.</p>
+          </div>
         </div>
-
-        <div class="el row gx-lg-5">
-          <div class="col-md-6 order-md-2">
-            <div class="el__excerpt">
-              <p>AT Ventures là đơn vị quỹ mở tổng hợp. </p>
-              <p>Chịu trách nhiệm cung cấp thông tin chi tiết và chính xác về các kênh đầu tư tại Kgroup. Đội ngũ kế toán chuyện nghiệp Quản lý dòng tiền đầu tư, và các lệnh nạp rút của nhà đầu tư , hay những thông tin nhà đầu tư cần hỗ trợ.</p>
-              <p>AT Ventures Hợp tác với nhóm chuyên gia của các mảng đầu tư sinh lợi nhuận cao có tên là KGroup. </p>
+        <div class="row justify-content-center">
+          <div class="col-md-6 col-lg-4 d-md-flex wow fadeInUp">
+            <div class="el__item">
+              <div class="el__item__thumb">
+                <div class="dnfix__thumb -contain">
+                  <img src="images/pages/fund-investment-ic-01.png" alt="">
+                </div>
+              </div>
+              <h3 class="el__item__title">Fundamental analysis</h3>
+              <div class="el__item__excerpt">
+                <ul>
+                  <li>Fundamental analysis attempts to determine the actual merit of a cryptocurrency. We thrive as problem solvers and excel at decomposing complex cryptoeconomic protocols and behavioral models.</li>
+                </ul>
+              </div>
             </div>
           </div>
-          <div class="col-md-6">
-            <div class="el__thumb">
-              <div class="dnfix__thumb">
-                <img src="images/pages/about-content-img-1.jpg" alt="">
+          <div class="col-md-6 col-lg-4 d-md-flex wow fadeInUp">
+            <div class="el__item">
+              <div class="el__item__thumb">
+                <div class="dnfix__thumb -contain">
+                  <img src="images/pages/fund-investment-ic-02.png" alt="">
+                </div>
+              </div>
+              <h3 class="el__item__title">Quantitative analysis</h3>
+              <div class="el__item__excerpt">
+                <ul>
+                  <li>We apply quantitative analyses to measure performance metrics, such as Sharpe-ratios and correlations.</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 d-md-flex wow fadeInUp">
+            <div class="el__item">
+              <div class="el__item__thumb">
+                <div class="dnfix__thumb -contain">
+                  <img src="images/pages/fund-investment-ic-03.png" alt="">
+                </div>
+              </div>
+              <h3 class="el__item__title">Portfolio construction</h3>
+              <div class="el__item__excerpt">
+                <ul>
+                  <li>We only invest in strong conviction crypto-assets, diversified across ecosystems, positions are continuously monitored and updated throughout the holding period.</li>
+                </ul>
               </div>
             </div>
           </div>
         </div>
 
+      </div>
+    </section>
+
+    <section class="home-performance fund-performance">
+      <div class="container">
         <div class="sc__header text-center wow fadeInUp">
-          <h2 class="sc__header__title"><span>KGROUP</span></h2>
+          <h2 class="sc__header__title">Performance</h2>
+          <div class="sc__header__excerpt">
+            The gross yield (in %) is based on the total intrinsic value of our portfolio (source: Coin Market Cap) and is intended for comparison purposes only.<br>
+            The start date was 1 April 2016 with a share price of € 1.-, since then the data on this website is being updated every Wednesday.<br>
+            Past performance is no guarantee of future performance.
+          </div>
         </div>
 
-        <div class="kgroup__item">
-          <div class="row gx-lg-5 align-items-center">
-            <div class="col-md-6 order-md-2">
-              <div class="kgroup__excerpt">
-                Ở KGroup có nhiều kênh đầu tư được các chuyên gia chuyên ngành quản lý phân tích và đầu tư sinh lợi nhuận chia với nhà đầu tư gồm:
+        <div class="row justify-content-center wow fadeInUp">
+          <div class="col-md-6 col-lg-4 d-md-flex">
+            <div class="el__item">
+              <div class="el__item__prefix">
+                <img src="images/home-performance-img-01.png" alt="">
+              </div>
+              <div class="el__item__number counter">213.25</div>
+              <div class="el__item__excerpt">GAV as at 10 November 2021</div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 d-md-flex">
+            <div class="el__item">
+              <div class="el__item__prefix">
+                <img src="images/home-performance-img-02.png" alt="">
+              </div>
+              <div class="el__item__number counter">258.70</div>
+              <div class="el__item__excerpt">Performance YTD</div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 d-md-flex">
+            <div class="el__item">
+              <div class="el__item__prefix">
+                <img src="images/home-performance-img-03.png" alt="">
+              </div>
+              <div class="el__item__number counter">21,225.00</div>
+              <div class="el__item__excerpt">Cumulative Performance since 1 April 2016</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="el__content">
+          <p class="text-center">
+            The term GAV (gross asset value) is based on the gross market value of all assets within the fund’s portfolio.<br>
+              The GAV is the entry price per unit into the fund on this date. The GAV is updated each Wednesday.<br>
+              The portfolio inception date is 1 April 2016 with a unit price of € 1.00.<br>
+              Fund A inception date is 1 January 2018 with a unit price of € 100.23.<br>
+              Past performance is no guarantee of future performance.<br>
+              Price data source: Coin Market Cap
+          </p>
+          <img src="images/pages/fund-performance-01.jpg" alt="">
+          <h3>Tổng hiệu suất hàng tháng tính bằng % tại ngày 10 tháng 11 năm 2021</h3>
+          <img src="images/pages/fund-performance-02.jpg" alt="">
+        </div>
+      </div>
+    </section>
+
+    <section class="fund-solution">
+      <div class="container">
+        <div class="sc__header text-center wow fadeInUp">
+          <h2 class="sc__header__title">Custody Solution</h2>
+          <div class="sc__header__excerpt mb-0">
+            Cyber Capital applies the highest standards of cryptographic, IT and physical security as well as multi-signing processes. The assets we invest in are stored in a hyper secure air-gapped vaulted deep cold storage set-up, based on proprietary hardware solutions. Our deep cold storage solution is further secured through operational security measures by a sharded private key set-up providing institutional–grade custody of the invested assets for our clients.
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="fund-investment fund-how">
+      <div class="container">
+        <div class="sc__header text-center wow fadeInUp">
+          <h2 class="sc__header__title">How to participate</h2>
+          <div class="sc__header__excerpt">
+            The client administration is managed by our partner IQEQ who performs client due diligence (CDD) on all new participants.
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <div class="col-md-6 col-lg-4 d-md-flex wow fadeInUp">
+            <div class="el__item">
+              <div class="el__item__thumb">
+                <div class="dnfix__thumb -contain">
+                  <img src="images/pages/fund-how-ic-01.png" alt="">
+                </div>
+              </div>
+              <h3 class="el__item__title">1. Documentation</h3>
+              <div class="el__item__excerpt">
+                <p>Request the fund documentation and kindly return a signed copy of the Fund Agreement and General Terms & Conditions.</p>
+                <p>REQUEST DOCUMENTATION</p>
               </div>
             </div>
+          </div>
+          <div class="col-md-6 col-lg-4 d-md-flex wow fadeInUp">
+            <div class="el__item">
+              <div class="el__item__thumb">
+                <div class="dnfix__thumb -contain">
+                  <img src="images/pages/fund-how-ic-02.png" alt="">
+                </div>
+              </div>
+              <h3 class="el__item__title">2. Euro transfer</h3>
+              <div class="el__item__excerpt">
+                After the approval of your subscription by our administrator, the subscription amount in EUROs (€) needs to reach our bank account within four (4) business days before the desired day of entry.
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 d-md-flex wow fadeInUp">
+            <div class="el__item">
+              <div class="el__item__thumb">
+                <div class="dnfix__thumb -contain">
+                  <img src="images/pages/fund-how-ic-03.png" alt="">
+                </div>
+              </div>
+              <h3 class="el__item__title">3. Login</h3>
+              <div class="el__item__excerpt">
+                After receipt of your documentation and subscription amount, you will receive a login for your personal investment account for Cyber Capital Fund A.
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <section class="fund-faq">
+      <div class="container">
+        <div class="sc__header text-center wow fadeInUp">
+          <h2 class="sc__header__title">FAQ</h2>
+        </div>
+
+        <div class="el__box">
+          <div class="row">
             <div class="col-md-6">
-              <div class="kgroup__thumb">
-                <img src="images/pages/about-kgroup-img.jpg" alt="">
+              <div class="el__item">
+                <h3 class="el__item__title">1. How do I know whether my investment is secure?</h3>
+                <div class="el__item__excerpt">
+                  The security of the cryptocurrencies under management is one of our primary goals. To protect the large majority of the fund assets from unauthorized access, the cryptocurrencies that together account for up to 80% of the assets under management (AUM) (variances may occur due to value fluctuations) are held in cold storage with two out of three multi-signature. However, although continuous optimization of the security will remain paramount, we cannot be held responsible for the loss or theft of cryptocurrencies of the fund. Unless the loss or theft is caused by the gross negligence or wilful default on our part.
+                </div>
+              </div>
+              <div class="el__item">
+                <h3 class="el__item__title">2. How can I participate?</h3>
+                <div class="el__item__excerpt">
+                  1. Request the fund documentation.
+                  2. Return signed copies.
+                  3. Transfer the subscription amount (€).
+                  4. You will receive a login for your investment account.
+                </div>
+              </div>
+              <div class="el__item">
+                <h3 class="el__item__title">3. What are the risk factors of investing in the fund?</h3>
+                <div class="el__item__excerpt">
+                  Due to the relatively low overall market value, significant volatility and high unpredictability of cryptocurrencies, an investment in cryptocurrencies is considered a high-risk investment. Prospective participants should be aware that cryptocurrencies are subject to extreme market fluctuations and other risks inherent in investing in cryptocurrencies. The value of cryptocurrencies and the income derived from them may fall as well as rise and participants may not recover the original amount invested in the fund. Therefore, the fund is only suited for participants who can afford such a high level of risk.
+                </div>
+              </div>
+              <div class="el__item">
+                <h3 class="el__item__title">4. What are the costs?</h3>
+                <div class="el__item__excerpt">
+                  2% annual fixed fee for ongoing charges<br>
+                  The ongoing charges figure (OCF) is the total yearly costs, including the management fee (except for profit share, transaction and redemption fees), The OCF is set as a fixed percentage of 2% over the assets under management (AUM) for the year concerned. The OCF is accrued weekly and charged monthly to the fund.<br>
+                  20% annual profit share<br>
+                  Cyber Capital is entitled to a profit share of 20% of the total gross yield (after deduction of the fixed fee) above the High Water Mark (HWM). The profit share is charged at the last transaction day of each year, or upon redemption of units<br>
+                  2% redemption fee<br>
+                  The 2% redemption fee is charged to discourage short-term, in-and-out trading of units and to compensate the fund for the possible negative effect of redemptions on the net asset value (NAV). The fee will be charged over the net redemption amount (after deduction of the fixed fee and the profit share) upon redemption of units. The redemption fee does not go to Cyber Capital, but is credited to the fund assets.
+                </div>
+              </div>
+              <div class="el__item">
+                <h3 class="el__item__title">5. What taxes do I need to pay over my participation?</h3>
+                <div class="el__item__excerpt">
+                  2% annual fixed fee for ongoing charges<br>
+                  The ongoing charges figure (OCF) is the total yearly costs, including the management fee (except for profit share, transaction and redemption fees), The OCF is set as a fixed percentage of 2% over the assets under management (AUM) for the year concerned. The OCF is accrued weekly and charged monthly to the fund.<br>
+                  20% annual profit share<br>
+                  Cyber Capital is entitled to a profit share of 20% of the total gross yield (after deduction of the fixed fee) above the High Water Mark (HWM). The profit share is charged at the last transaction day of each year, or upon redemption of units
+                  2% redemption fee<br>
+                  The 2% redemption fee is charged to discourage short-term, in-and-out trading of units and to compensate the fund for the possible negative effect of redemptions on the net asset value (NAV). The fee will be charged over the net redemption amount (after deduction of the fixed fee and the profit share) upon redemption of units. The redemption fee does not go to Cyber Capital, but is credited to the fund assets.
+                </div>
+              </div>
+              <div class="el__item">
+                <h3 class="el__item__title">6. Can I resell my participation?</h3>
+                <div class="el__item__excerpt">
+                  No, units can only be sold back to the fund (upon redemption) and can therefore not be transferred to third parties.
+                </div>
+              </div>
+              <div class="el__item">
+                <h3 class="el__item__title">7. Does the fund pay periodic dividends?</h3>
+                <div class="el__item__excerpt">
+                  The fund does not pay out periodic dividends. Net profits are paid out upon redemption only.
+                </div>
+              </div>
+            </div>
+
+            <div class="col-md-6">
+              <div class="el__item">
+                <h3 class="el__item__title">8. When and how is the net asset value (NAV) determined?</h3>
+                <div class="el__item__excerpt">
+                  The NAV is determined each Wednesday at 13:00 UTC by the fund administrator IQEQ, based on the rates provided by Coin Market Cap. The incurred costs, as described in chapter 9 of the prospectus, will be taken into consideration for the determination of the NAV.
+                </div>
+              </div>
+              <div class="el__item">
+                <h3 class="el__item__title">9. Can I enter or exit the fund at any moment of my choosing?</h3>
+                <div class="el__item__excerpt">
+                  The fund will in principle issue and redeem units every Wednesday at 13:00 UTC, at the request of (prospective) participants, unless the NAV calculation is suspended or the prospectus provides otherwise. Requests for the issue and redemption of units need to be received by the administrator at least one calendar week prior to the intended transaction day. Only requests received before Wednesday 13:00 UTC will be executed the following Wednesday, based on the established NAV on that day at 13:00 UTC.
+                </div>
+              </div>
+              <div class="el__item">
+                <h3 class="el__item__title">10. What is the minimum subscription amount?</h3>
+                <div class="el__item__excerpt">
+                  The minimum subscription amount is € 100,000. The minimum of subsequent subscription amounts is € 5,000. The total invested amount per participant may never be less than € 100,000 (excluding decrease in value).
+                </div>
+              </div>
+              <div class="el__item">
+                <h3 class="el__item__title">11. What is the minimum redemption amount?</h3>
+                <div class="el__item__excerpt">
+                  The minimum amount for which units may be redeemed is € 5,000. Fractions of units may be redeemed up to four (4) decimals. Any redemption may not cause the remaining invested amount to be less than € 100,000, as the total invested amount per participant may never be less than € 100,000 (excluding decrease in value due to market price decrease).
+                </div>
+              </div>
+              <div class="el__item">
+                <h3 class="el__item__title">12. How well is the fund’s portfolio diversified?</h3>
+                <div class="el__item__excerpt">
+                  Although the portfolio consists of a large number of different types of cryptocurrencies, the majority of Fund A’s capital is allocated towards the portfolio top ten in terms of market capitalization. Compared to the smaller ones, these cryptocurrencies are all well established with more liquidity and can be considered more secure, stable and reliable. The fund also invests in the smaller less established cryptocurrencies, for which a strategy of multiple small positions is applied. Also known as the “unicorn” strategy.
+                </div>
+              </div>
+              <div class="el__item">
+                <h3 class="el__item__title">13. Where can I see the current status of my investment?</h3>
+                <div class="el__item__excerpt">
+                  At least once a week (every Wednesday afternoon) we publish the gross yield on this website. Furthermore, participans have access through their private and secure investment account on the website the following information:<br>
+
+                  Number of outstanding units per participation<br>
+                  Net asset value per participation (updated weekly)<br>
+                  Transaction overview<br>
+                  Personal fiscal year report<br>
+                  Fund’s annual report
+                </div>
+              </div>
+              <div class="el__item">
+                <h3 class="el__item__title">14. Can I see the ratios of the coins in the portfolio?</h3>
+                <div class="el__item__excerpt">
+                  No, we do not publish the ratios of our cryptocurrency portfolio.
+                </div>
+              </div>
+              <div class="el__item">
+                <h3 class="el__item__title">15. Is the fund regulated by a financial authority?</h3>
+                <div class="el__item__excerpt">
+                  The fund is an Alternative Investment Fund (AIF) and the fund manager is an Alternative Investment Fund Manager (AIFM). Both the fund and the fund manager are registered under the Alternative Investment Fund Managers Directive (AIFMD) registration/light regime with the Netherlands Authority for the Financial Markets (AFM). This means that the fund manager is able to make use of an exception from the prospectus requirement, license requirement and full application of the AIFMD. Therefore, although the investment, the Fund and the Fund Manager are registered with the AFM, they fall outside the supervision of the AFM and the Dutch Central Bank (DNB). Pursuant to article 2:66a of the Dutch Financial Supervision Act (Wft), no licence and no prospectus are required for this activity.
+                </div>
               </div>
             </div>
           </div>
         </div>
+      </div>
+    </section>
 
-        <div class="el2 row gx-lg-40 justify-content-center">
-
-          <div class="col-md-4 el__col d-md-flex">
-            <div class="el2__item">
-              <div class="el2__number">
-                <p>NHÓM</p>
-                <p class="-number">1</p>
-              </div>
-              <div class="el2__excerpt">
-                Chuyên gia giao dịch tiền điện tử (coin) mang lại lợi nhuận hàng tuần chia với nhà đầu tư cam kết thấp nhất 1.2% cao nhất 7.5%/ tuần.
-              </div>
+    <section class="footer-newsletter">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-lg-6 mb-3 mb-lg-0">
+            <h2 class="el__title">Newsletter</h2>
+            <div class="el__excerpt">
+              Subscribe to our monthly newsletter and receive the latest updates<br>on Cyber Capital and the crypto industry.
             </div>
           </div>
-          <div class="col-md-4 el__col d-md-flex">
-            <div class="el2__item">
-              <div class="el2__number">
-                <p>NHÓM</p>
-                <p class="-number">2</p>
-              </div>
-              <div class="el2__excerpt">
-                Chuyên gia giao dịch ngoại hối (forex) mang lại lợi nhuận hàng tháng chia với nhà đầu tư, cam kết thấp nhất 5% cao nhất 30%/ tháng.
-              </div>
-            </div>
+          <div class="col-lg-6">
+            <form action="">
+              <input type="text" placeholder="Email adress" class="form-control">
+              <input type="submit" class="input-submit" value="SUBSCRIBE NOW" class="SUBSCRIBE NOW">
+            </form>
           </div>
-          <div class="w-100"></div>
-          <div class="col-md-4 el__col d-md-flex">
-            <div class="el2__item">
-              <div class="el2__number">
-                <p>NHÓM</p>
-                <p class="-number">3</p>
-              </div>
-              <div class="el2__excerpt">
-                Chuyên gia đầu tư bất động sản và mang lại lợi nhuận hàng quý chia với nhà đầu tư, cam kết thấp nhất 15% cao nhất 90%/ 1 quý là 3 tháng.
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 el__col d-md-flex">
-            <div class="el2__item">
-              <div class="el2__number">
-                <p>NHÓM</p>
-                <p class="-number">4</p>
-              </div>
-              <div class="el2__excerpt">
-                Chuyên gia đầu tư về nông nghiệp mang lại lợi nhuận hàng năm chia với nhà đầu tư, cam kết thấp nhất 60% và cao nhất 400%/ năm.
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 el__col d-md-flex">
-            <div class="el2__item">
-              <div class="el2__number">
-                <p>NHÓM</p>
-                <p class="-number">5</p>
-              </div>
-              <div class="el2__excerpt">
-                Đầu tư vào phát triển chuỗi hệ thống du lịch nghĩ dưỡng chia lợi nhuận với nhà đầu tư 2 năm 1 lần cam kết lãi suất thấp nhất là 140% - 1000% / 2 năm.
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="text-center">
-          <p class="el3__header__title">Ở KGroup còn có thêm 2 kênh giải trí.</p>
-        </div>
-
-        <div class="row">
-         <div class="col-md-6 d-md-flex">
-            <div class="el3__item">
-              <h3 class="el3__title">Kênh giải trí thứ nhất</h3>
-              <div class="el3__excerpt">
-              Là hệ thống cho phép các nđt và cộng đồng bên ngoài tham gia đấu giá ngược,  các giải thưởng mà KGroup cùng Quỹ AT Ventures treo thưởng.<br>
-              Vd: xe ô tô. Siêu xe. Đồng hồ. ... và nhiều tài sản giá trị khác.<br>
-              Cách thức đấu giá,   mỗi vé đấu giá, trị giá 10$ và bạn có thể sở hữu bao nhiu vé cũng được, mỗi vé bạn sẽ được chọn 1 giá ngẫu nhiên miễn sao là giá duy nhất và thấp nhất thì giải thưởng đấu giá sẽ là của bạn.
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 d-md-flex">
-            <div class="el3__item">
-              <h3 class="el3__title">Kênh giải trí thứ hai</h3>
-              <div class="el3__excerpt">
-              Là hệ thống quay xổ số may mắn. Cũng được hệ thống KGroup cùng quỹ AT Ventures tổ chức.
-              Hình thức chơi như sau, bạn chỉ cần mua 1 vé số có 5 cập số bạn có thể chọn ngẫu nhiên, 5 cập số mà mình thích nhất, số tiền cộng đồng mua vé số sẽ được cộng dồn lên và ai trúng tất cả số tiền sẽ là của người đó, nếu trong ngày đó không ai trúng cả thì số tiền sẽ được cộng dồn lên cho đến khi có người trúng số thì thôi.
-               Mỗi ngày vào lúc 20h hệ thống sẽ tự động quay số ngẫu nhiên, ai may mắn người đó sẽ trúng thưởng.
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="el4__item">
-          AT Ventures Phát hành cổ phiếu điện tử token list các sàn cho phép nhà đầu tư và cộng đồng trữ hoặc mua bán trên các sàn.
-          Sử dụng Cho hệ thống nđt có thể dùng token để đầu tư thay vì mua usdt đầu tư và mua đấu giá hay mua xổ số của hệ thống KGroup.
         </div>
       </div>
     </section>
 
     <footer class="footer">
       <div class="container text-center position-relative">
-        <div class="footer__logo">
-          <a href="index.html">
-            <img src="images/footer-logo.png" alt="Logo">
-          </a>
-        </div>
-        <div class="footer__excerpt">
-          Xin chân thành cảm ơn quý khách đã ghé thăm website của AT Ventures. Ban quản trị đã tổng hợp rất nhiều kiến thức về đầu tư và quản lý tài chính cá nhân cũng như thường xuyên cập nhật tin tức thị trường crypto. Hãy thường xuyên ghé thăm và nhận những món quà ý nghĩa từ cộng đồng nhé.
+        <div class="copyright text-center">
+          <p>© VT Ventures 2021 | <a href="">Privacy Policy</a> | <a href="">Disclaimer</a></p>
         </div>
         <ul class="footer__socical">
-          <li><a href="" target="_blank"><span class="icon-facebook"></span></a></li>
-          <li><a href="" target="_blank"><span class="icon-twitter"></span></a></li>
-          <li><a href="" target="_blank"><span class="icon-telegram"></span></a></li>
+          <li><a href="" target="_blank"><img src="./assets/img/facebook.png" alt=""></a></li>
+          <li><a href="" target="_blank"><img src="./assets/img/twitter.png" alt=""></a></li>
         </ul>
-
-        <div class="copyright text-center">
-          <p>© Copyright 2021 AT Ventures.</p>
-        </div>
-        <div class="back-to-top"><span class="icon-arrow-up"></span></div>
       </div>
     </footer>
 
     <nav id="menu__mobile" class="nav__mobile">
         <div class="nav__mobile__content">
             <ul class="nav__mobile--ul">
-              <li class="menu-item"><a href="index.html">TRANG CHỦ</a></li>
-              <li class="menu-item active"><a href="about.html">GIỚI THIỆU</a></li>
-              <li class="menu-item"><a href="games.html">GAME</a></li>
-              <li class="menu-item"><a href="subcypto-1.html">CRYPTO</a></li>
-              <li class="menu-item"><a href="games.html">TIN TỨC</a></li>
-              <li class="menu-item"><a href="contact.html">LIÊN HỆ</a></li>
-            </ul>
-
-            <ul class="footer__socical">
-              <li><a href="" target="_blank"><span class="icon-facebook"></span></a></li>
-              <li><a href="" target="_blank"><span class="icon-twitter"></span></a></li>
-              <li><a href="" target="_blank"><span class="icon-telegram"></span></a></li>
+              <li class="menu-item"><a href="index.html">Home</a></li>
+              <li class="menu-item"><a href="about.html">About</a></li>
+              <li class="menu-item active"><a href="fund.html">Fund</a></li>
+              <li class="menu-item"><a href="insights.html">Insights</a></li>
+              <li class="menu-item"><a href="blogs.html">Blogs</a></li>
+              <li class="menu-item"><a href="conact.html">Contact</a></li>
             </ul>
         </div>
     </nav>

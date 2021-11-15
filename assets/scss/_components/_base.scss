@@ -1,13 +1,80 @@
 $color_primary:#5FC4E6;$color_secondary:#BEE274;
 .-color-primary{color:$color_primary;}
 
-/**/
-body{
-    --header-height:88px;
+// Default
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #0F2851;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    position: relative;
+    --header-height:92px;
     @media (max-width: 991px){
-        --header-height:74px;
+        --header-height:78px;
     }
 }
+
+a, a:hover {
+    color: #4D4D4D;
+    text-decoration: none;
+    // transition: all 0.3s;
+}
+
+h1,h2,h3,h4,h5,h6 {
+
+}
+
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+img {
+  max-width: 100%;
+}
+a {
+    outline: none;
+}
+strong{
+    font-weight: 700;
+}
+
 /* Slider */
 
 .slickfix .slick-list{margin:0 -50px;}
@@ -35,7 +102,6 @@ br{
     @media (max-width:991px){
         &.pc{display:none;}
     }
-
     @media (min-width:768px) and (max-width:1199px){
         &.tb{display:block;}
     }
@@ -55,8 +121,6 @@ br{
     &:hover{color:#fff;
         &:hover{transform:translateY(-5px);}
     }
-    &--primary{background-color:$color_primary;}
-    &--secondary{background-color:$color_secondary;}
 }
 
 .back-to-top{
@@ -91,13 +155,23 @@ br{
     }
 }
 
+@media (min-width: 767px){
+    .container-sm, .container {
+        max-width: 100%
+    }
+}
+
 @media (min-width: 992px){
+
     .g-lg-40, .gx-lg-40 {
         --bs-gutter-x: 2.5rem;
     }
 }
 
 @media (min-width: 1400px){
+    .row{
+        --bs-gutter-x: 2.5rem;
+    }
     .container-xl, .container-lg, .container-md, .container-sm, .container {
         max-width: 1304px;
     }

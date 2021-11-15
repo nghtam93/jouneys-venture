@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>AT-Ventures</title>
+    <title>J Ventures</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" href="images/favicon.png" />
 
@@ -14,7 +14,7 @@
   </head>
   <body class="home">
 
-    <header class="header -fix">
+    <header class="header -fix" data-toggle="sticky-onscroll">
         <div class="container d-flex align-items-center">
           <div class="d-lg-none me-3">
               <a href="#" class="menu-mb__btn">
@@ -31,286 +31,206 @@
           </h1>
           <nav class="main__nav ms-auto d-none d-lg-block">
             <ul class="el__menu">
-              <li class="menu-item"><a href="index.html">TRANG CHỦ</a></li>
-              <li class="menu-item"><a href="about.html">GIỚI THIỆU</a></li>
-              <li class="menu-item"><a href="games.html">GAME</a></li>
-              <li class="menu-item menu-item-has-children">
-                <a href="games.html">CRYPTO</a>
-                <ul class="sub-menu">
-                  <li class="menu-item"><a href="subcypto-1.html">Kiến thức Crypto</a></li>
-                  <li class="menu-item"><a href="subcypto-2.html">Dành cho người mới</a></li>
-                </ul>
-              </li>
-              <li class="menu-item menu-item-has-children current-menu-parent">
-                <a href="games.html">TIN TỨC</a>
-                <ul class="sub-menu">
-                  <li class="menu-item current-menu-item"><a href="subnew-1.html">Tin tức về Crypto</a></li>
-                  <li class="menu-item"><a href="subnew-2.html">Tin tức về Game</a></li>
-                </ul>
-              </li>
-              <li class="menu-item"><a href="contact.html">LIÊN HỆ</a></li>
+              <li class="menu-item active"><a href="index.html">Home</a></li>
+              <li class="menu-item"><a href="about.html">About</a></li>
+              <li class="menu-item"><a href="fund.html">Fund</a></li>
+              <li class="menu-item"><a href="insights.html">Insights</a></li>
+              <li class="menu-item"><a href="blogs.html">Blogs</a></li>
+              <li class="menu-item"><a href="conact.html">Contact</a></li>
             </ul>
           </nav>
 
-          <div class="header__search">
-            <form role="search" method="get" class="search-form search__form" action="">
-              <input type="search" id="" class="search-field" placeholder="Nhập từ khóa cần tìm..." name="s" />
-              <button class="search-submit" type="submit"><span class="icon-search"></span></button>
-            </form>
+          <div class="languages">
+            <div class="languages-item"><img src="./assets/flag/en.png" alt=""></div>
+            <ul class="">
+              <li class="active"><img src="./assets/flag/en.png" alt=""></li>
+              <li><img src="./assets/flag/vi.png" alt=""></li>
+              <li><img src="./assets/flag/kr.png" alt=""></li>
+              <li><img src="./assets/flag/cn.png" alt=""></li>
+            </ul>
           </div>
 
         </div>
     </header>
 
-    <section class="page__header">
+    <section class="home-banner">
+        <div class="el__thumb" style="background-image: url(images/home-banner.jpg);">
+        </div>
+    </section>
+
+    <section class="home-about">
       <div class="container">
-        <h1 class="entry-title">TIN TỨC</h1>
+        <div class="el__title wow fadeInUp">A trusted authority on cryptocurrency investments</div>
+        <div class="row">
+          <div class="col-lg-6 order-lg-2 wow fadeInRight">
+            <div class="el__thumb mb-4 mb-lg-0">
+              <div class="dnfix__thumb">
+                <img src="images/home-about.jpg" alt="">
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6 wow fadeInLeft">
+            <div class="el__excerpt">
+              <p>
+                J Ventures, founded in 2016 and based in Amsterdam (Netherlands) is an investment firm committed to generate superior returns for their investors through an actively managed crypto-assets portfolio with a long-term investment horizon.
+              </p>
+              <p>
+                As of 1 April 2021, J Ventures partners with Sensus Capital, an independent services company based in Zug, Switzerland with the goal to combine established crypto investment expertise with traditional investment business and network to further enhance the added value for clients.
+              </p>
+              <p>
+                We are focused on bridging the gap between digital investment opportunities and traditional investors, who are looking to gain exposure to cryptocurrencies.
+              </p>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
 
-
-    <div class="archive__content">
+    <section class="home-value">
       <div class="container">
-
-
-        <div class="sc__header text-center wow fadeInUp">
-          <h2 class="sc__header__title"><span>TIN TỨC VỀ GAME</span></h2>
-        </div>
-
         <div class="row">
-          <div class="col-md-6 col-lg-4">
-            <div class="new__item ef--border">
-              <a href="new-details.html">
-                <div class="new__item__thumb">
-                  <div class="dnfix__thumb">
-                    <img src="images/pages/games-01.png" alt="">
-                  </div>
-                </div>
-                <div class="new__item__meta">
-                  <div class="new__item__date">01/11/2021</div>
-                  <h3 class="new__item__title text__truncate -n2">Ethereum liên tục lên đỉnh- Sau khi nâng cấp Altair thành công mỹ mãn ETH liên tục lập ATH</h3>
-                </div>
-              </a>
+          <div class="col-md-6 d-md-flex wow fadeInUp">
+            <div class="el__item">
+              <h3 class="el__item__title"><img src="images/home-value-img-01.png" alt="">EXPERTISE</h3>
+              <div class="el__item__excerpt">
+                Our 5-year track record blending crypto-native expertise with a honed investment strategy has proven the success of our cryptocurrency fund since 2016.
+              </div>
             </div>
           </div>
-          <div class="col-md-6 col-lg-4">
-            <div class="new__item ef--border">
-              <a href="new-details.html">
-                <div class="new__item__thumb">
-                  <div class="dnfix__thumb">
-                    <img src="images/pages/games-02.png" alt="">
-                  </div>
-                </div>
-                <div class="new__item__meta">
-                  <div class="new__item__date">01/11/2021</div>
-                  <h3 class="new__item__title text__truncate -n2">Thông báo về quá trình đăng ký trước Crowdloan của Moonbeam</h3>
-                </div>
-              </a>
+          <div class="col-md-6 d-md-flex wow fadeInUp">
+            <div class="el__item">
+              <h3 class="el__item__title"><img src="images/home-value-img-02.png" alt="">VALUE INVESTING</h3>
+              <div class="el__item__excerpt">
+                We invest directly in cryptocurrencies that address tangible use cases, provide economic benefits, demonstrate signs of product-market fit, and exhibit compelling crypto-economics combined with superior governance models.
+              </div>
             </div>
           </div>
-          <div class="col-md-6 col-lg-4">
-            <div class="new__item ef--border">
-              <a href="new-details.html">
-                <div class="new__item__thumb">
-                  <div class="dnfix__thumb">
-                    <img src="images/pages/games-03.png" alt="">
-                  </div>
-                </div>
-                <div class="new__item__meta">
-                  <div class="new__item__date">01/11/2021</div>
-                  <h3 class="new__item__title text__truncate -n2">Hướng dẫn đăng ký tài khoản - bảo mật và xác minh danh tính cá nhân trên sàn CoinEx</h3>
-                </div>
-              </a>
+          <div class="col-md-6 d-md-flex wow fadeInUp">
+            <div class="el__item">
+              <h3 class="el__item__title"><img src="images/home-value-img-03.png" alt="">INSTITUTIONAL GRADE</h3>
+              <div class="el__item__excerpt">
+                Auditable deep cold storage custody solution secured through a multisignature sharded key set-up across multiple physical locations held by multiple parties combined with traditional operational governance structures ensuring transparency and security of the invested assets.
+              </div>
             </div>
           </div>
-          <div class="col-md-6 col-lg-4">
-            <div class="new__item ef--border">
-              <a href="new-details.html">
-                <div class="new__item__thumb">
-                  <div class="dnfix__thumb">
-                    <img src="images/pages/games-04.png" alt="">
-                  </div>
-                </div>
-                <div class="new__item__meta">
-                  <div class="new__item__date">01/11/2021</div>
-                  <h3 class="new__item__title text__truncate -n2">Bit.Country metaverses mang lại mục đích cho hàng nghìn công việc ảo</h3>
-                </div>
-              </a>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4">
-            <div class="new__item ef--border">
-              <a href="new-details.html">
-                <div class="new__item__thumb">
-                  <div class="dnfix__thumb">
-                    <img src="images/pages/games-05.png" alt="">
-                  </div>
-                </div>
-                <div class="new__item__meta">
-                  <div class="new__item__date">01/11/2021</div>
-                  <h3 class="new__item__title text__truncate -n2">Ethereum liên tục lên đỉnh- Sau khi nâng cấp Altair thành công mỹ mãn ETH liên tục lập ATH</h3>
-                </div>
-              </a>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4">
-            <div class="new__item ef--border">
-              <a href="new-details.html">
-                <div class="new__item__thumb">
-                  <div class="dnfix__thumb">
-                    <img src="images/pages/games-06.png" alt="">
-                  </div>
-                </div>
-                <div class="new__item__meta">
-                  <div class="new__item__date">01/11/2021</div>
-                  <h3 class="new__item__title text__truncate -n2">Thông báo về quá trình đăng ký trước Crowdloan của Moonbeam</h3>
-                </div>
-              </a>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4">
-            <div class="new__item ef--border">
-              <a href="new-details.html">
-                <div class="new__item__thumb">
-                  <div class="dnfix__thumb">
-                    <img src="images/pages/games-07.png" alt="">
-                  </div>
-                </div>
-                <div class="new__item__meta">
-                  <div class="new__item__date">01/11/2021</div>
-                  <h3 class="new__item__title text__truncate -n2">Bit.Country metaverses mang lại mục đích cho hàng nghìn công việc ảo</h3>
-                </div>
-              </a>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4">
-            <div class="new__item ef--border">
-              <a href="new-details.html">
-                <div class="new__item__thumb">
-                  <div class="dnfix__thumb">
-                    <img src="images/pages/games-08.png" alt="">
-                  </div>
-                </div>
-                <div class="new__item__meta">
-                  <div class="new__item__date">01/11/2021</div>
-                  <h3 class="new__item__title text__truncate -n2">Ethereum liên tục lên đỉnh- Sau khi nâng cấp Altair thành công mỹ mãn ETH liên tục lập ATH</h3>
-                </div>
-              </a>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4">
-            <div class="new__item ef--border">
-              <a href="new-details.html">
-                <div class="new__item__thumb">
-                  <div class="dnfix__thumb">
-                    <img src="images/pages/games-09.png" alt="">
-                  </div>
-                </div>
-                <div class="new__item__meta">
-                  <div class="new__item__date">01/11/2021</div>
-                  <h3 class="new__item__title text__truncate -n2">Thông báo về quá trình đăng ký trước Crowdloan của Moonbeam</h3>
-                </div>
-              </a>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4">
-            <div class="new__item ef--border">
-              <a href="new-details.html">
-                <div class="new__item__thumb">
-                  <div class="dnfix__thumb">
-                    <img src="images/pages/games-10.png" alt="">
-                  </div>
-                </div>
-                <div class="new__item__meta">
-                  <div class="new__item__date">01/11/2021</div>
-                  <h3 class="new__item__title text__truncate -n2">Bit.Country metaverses mang lại mục đích cho hàng nghìn công việc ảo</h3>
-                </div>
-              </a>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4">
-            <div class="new__item ef--border">
-              <a href="new-details.html">
-                <div class="new__item__thumb">
-                  <div class="dnfix__thumb">
-                    <img src="images/pages/games-11.png" alt="">
-                  </div>
-                </div>
-                <div class="new__item__meta">
-                  <div class="new__item__date">01/11/2021</div>
-                  <h3 class="new__item__title text__truncate -n2">Ethereum liên tục lên đỉnh- Sau khi nâng cấp Altair thành công mỹ mãn ETH liên tục lập ATH</h3>
-                </div>
-              </a>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4">
-            <div class="new__item ef--border">
-              <a href="new-details.html">
-                <div class="new__item__thumb">
-                  <div class="dnfix__thumb">
-                    <img src="images/pages/games-12.png" alt="">
-                  </div>
-                </div>
-                <div class="new__item__meta">
-                  <div class="new__item__date">01/11/2021</div>
-                  <h3 class="new__item__title text__truncate -n2">Thông báo về quá trình đăng ký trước Crowdloan của Moonbeam</h3>
-                </div>
-              </a>
+          <div class="col-md-6 d-md-flex wow fadeInUp">
+            <div class="el__item">
+              <h3 class="el__item__title"><img src="images/home-value-img-04.png" alt="">REGULATION</h3>
+              <div class="el__item__excerpt">
+                J Ventures is fully registered by the Dutch Authority for the Financial Markets under the AIFMD-light regime and the Dutch Central Bank. J Ventures’s investment products meet the due diligence requirements of a collective investment fund, allowing investors to benefit from several unique advantages such as transparent and secure access, market liquidity of the invested assets and funds administered by reputable service providers.
+              </div>
             </div>
           </div>
         </div>
 
-        <nav class="navigation paging-navigation" role="navigation">
-          <div class="pagination loop-pagination">
-            <a class="prev page-numbers" href="#"><span class="icon-arrow-left"></span></a>
-            <span class="page-numbers current">2</span>
-            <a class="page-numbers" href="#">1</a>
-            <a class="page-numbers" href="#">3</a>
-            <a class="next page-numbers" href="#"><span class="icon-arrow-right"></span></a>
-          </div><!-- .pagination -->
-        </nav>
+        <div class="text-center">
+          <a href="" class="sc__readmore"><span>READ MORE ABOUT CYBER CAPITAL</span></a>
+        </div>
+      </div>
+    </section>
+
+    <section class="home-performance">
+      <div class="container">
+        <div class="sc__header text-center wow fadeInUp">
+          <h2 class="sc__header__title">Performance</h2>
+          <div class="sc__header__excerpt">
+            The gross yield (in %) is based on the total intrinsic value of our portfolio (source: Coin Market Cap) and is intended for comparison purposes only.<br>
+            The start date was 1 April 2016 with a share price of € 1.-, since then the data on this website is being updated every Wednesday.<br>
+            Past performance is no guarantee of future performance.
+          </div>
+        </div>
+
+        <div class="row wow fadeInUp">
+          <div class="col-md-4 d-md-flex">
+            <div class="el__item">
+              <div class="el__item__prefix">
+                <img src="images/home-performance-img-01.png" alt="">
+              </div>
+              <div class="el__item__number">213.25</div>
+              <div class="el__item__excerpt">GAV as at 10 November 2021</div>
+            </div>
+          </div>
+          <div class="col-md-4 d-md-flex">
+            <div class="el__item">
+              <div class="el__item__prefix">
+                <img src="images/home-performance-img-02.png" alt="">
+              </div>
+              <div class="el__item__number">258.70</div>
+              <div class="el__item__excerpt">Performance YTD</div>
+            </div>
+          </div>
+          <div class="col-md-4 d-md-flex">
+            <div class="el__item">
+              <div class="el__item__prefix">
+                <img src="images/home-performance-img-03.png" alt="">
+              </div>
+              <div class="el__item__number">21,225.00</div>
+              <div class="el__item__excerpt">Cumulative Performance since 1 April 2016</div>
+            </div>
+          </div>
+        </div>
+        <div class="text-center">
+          <a href="" class="sc__readmore"><span>READ MORE ABOUT OUR FUND</span></a>
+        </div>
 
       </div>
-    </div>
+    </section>
+
+    <section class="home-text">
+      <div class="container">
+        <div class="sc__header text-center wow fadeInUp">
+          <h2 class="sc__header__title">At J Ventures</h2>
+          <div class="sc__header__excerpt">
+            We believe investors require an established, trusted, and accountable partner that can help them navigate their cryptocurrency investment exposure. We provide the traditional investment infrastructure to invest in this rapidly evolving neutral free market economy on the internet powered by crypto-assets.
+          </div>
+        </div>
+        <div class="text-center">
+          <a href="" class="sc__readmore"><span>READ MORE ABOUT OUR INSIGHTS</span></a>
+        </div>
+
+      </div>
+    </section>
+
+    <section class="footer-newsletter">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-lg-6 mb-3 mb-lg-0">
+            <h2 class="el__title">Newsletter</h2>
+            <div class="el__excerpt">
+              Subscribe to our monthly newsletter and receive the latest updates<br>on Cyber Capital and the crypto industry.
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <form action="">
+              <input type="text" placeholder="Email adress" class="form-control">
+              <input type="submit" class="input-submit" value="SUBSCRIBE NOW" class="SUBSCRIBE NOW">
+            </form>
+          </div>
+        </div>
+      </div>
+    </section>
 
     <footer class="footer">
       <div class="container text-center position-relative">
-        <div class="footer__logo">
-          <a href="index.html">
-            <img src="images/footer-logo.png" alt="Logo">
-          </a>
-        </div>
-        <div class="footer__excerpt">
-          Xin chân thành cảm ơn quý khách đã ghé thăm website của AT Ventures. Ban quản trị đã tổng hợp rất nhiều kiến thức về đầu tư và quản lý tài chính cá nhân cũng như thường xuyên cập nhật tin tức thị trường crypto. Hãy thường xuyên ghé thăm và nhận những món quà ý nghĩa từ cộng đồng nhé.
+        <div class="copyright text-center">
+          <p>© VT Ventures 2021 | <a href="">Privacy Policy</a> | <a href="">Disclaimer</a></p>
         </div>
         <ul class="footer__socical">
-          <li><a href="" target="_blank"><span class="icon-facebook"></span></a></li>
-          <li><a href="" target="_blank"><span class="icon-twitter"></span></a></li>
-          <li><a href="" target="_blank"><span class="icon-telegram"></span></a></li>
+          <li><a href="" target="_blank"><img src="./assets/img/facebook.png" alt=""></a></li>
+          <li><a href="" target="_blank"><img src="./assets/img/twitter.png" alt=""></a></li>
         </ul>
-
-        <div class="copyright text-center">
-          <p>© Copyright 2021 AT Ventures.</p>
-        </div>
-        <div class="back-to-top"><span class="icon-arrow-up"></span></div>
       </div>
     </footer>
 
     <nav id="menu__mobile" class="nav__mobile">
         <div class="nav__mobile__content">
             <ul class="nav__mobile--ul">
-              <li class="menu-item"><a href="index.html">TRANG CHỦ</a></li>
-              <li class="menu-item"><a href="about.html">GIỚI THIỆU</a></li>
-              <li class="menu-item"><a href="games.html">GAME</a></li>
-              <li class="menu-item"><a href="subcypto-1.html">CRYPTO</a></li>
-              <li class="menu-item active"><a href="games.html">TIN TỨC</a></li>
-              <li class="menu-item"><a href="contact.html">LIÊN HỆ</a></li>
-            </ul>
-
-            <ul class="footer__socical">
-              <li><a href="" target="_blank"><span class="icon-facebook"></span></a></li>
-              <li><a href="" target="_blank"><span class="icon-twitter"></span></a></li>
-              <li><a href="" target="_blank"><span class="icon-telegram"></span></a></li>
+              <li class="menu-item"><a href="index.html">Home</a></li>
+              <li class="menu-item"><a href="about.html">About</a></li>
+              <li class="menu-item "><a href="fund.html">Fund</a></li>
+              <li class="menu-item"><a href="insights.html">Insights</a></li>
+              <li class="menu-item active"><a href="blogs.html">Blogs</a></li>
+              <li class="menu-item"><a href="conact.html">Contact</a></li>
             </ul>
         </div>
     </nav>

@@ -1,0 +1,203 @@
+.fund{
+	&-intro{
+		padding: 60px 0 35px;
+		.el{
+			&__thumb{
+				margin-bottom: 60px;
+				.dnfix__thumb{
+					padding-top: 44%;
+					min-height: 280px;
+				}
+			}
+			&__sub{
+				font-weight: 500;
+				font-size: 20px;
+				line-height: 30px;
+				margin-bottom: 24px;
+			}
+			&__excerpt{
+				font-size: 18px;
+				line-height: 28px;
+				margin-bottom: 60px;
+				p{
+					&:not(:last-child){
+						margin-bottom: 30px;
+					}
+				}
+			}
+			&__item{
+				width: 100%;
+				padding: 16px 16px;
+				border: 1px solid #E4E4E4;
+				transition: all .5s;
+				margin-bottom: 25px;
+				&:hover{
+					box-shadow: 0px 0px 10px #ccc;
+				}
+				.dnfix__thumb{
+					max-width: 48px;
+					padding-top:48px;
+					margin: 0 auto 8px;
+				}
+				&__title{
+					font-weight: 500;
+					font-size: 20px;
+					line-height: 30px;
+					text-align: center;
+					color: #1081E8;
+					margin-bottom: 16px;
+				}
+				ul{
+					list-style: disc;
+					padding-left:17px;
+					li{
+						margin-bottom: 5px;
+					}
+				}
+			}
+		}
+	}
+	&-investment{
+		padding: 60px 0 35px;
+		background: #F8F8F8;
+		.el{
+			&__item{
+				padding: 16px 16px;
+				border: 1px solid #E4E4E4;
+				transition: all .5s;
+				margin-bottom: 25px;
+				&:hover{
+					background: #fff;
+					box-shadow: 0px 0px 10px #ccc;
+				}
+				.dnfix__thumb{
+					max-width: 48px;
+					padding-top:48px;
+					margin: 0 auto 8px;
+				}
+				&__title{
+					font-weight: 500;
+					font-size: 20px;
+					line-height: 30px;
+					text-align: center;
+					color: #1081E8;
+					margin-bottom: 16px;
+				}
+				ul{
+					list-style: disc;
+					padding-left:17px;
+					li{
+						margin-bottom: 5px;
+					}
+				}
+			}
+		}
+	}
+	&-performance{
+		background: #fff;
+		.el{
+			&__content{
+				font-size: 18px;
+				line-height: 28px;
+				p{
+					margin-bottom: 48px;
+				}
+				h3{
+					font-size: 20px;
+					line-height: 30px;
+					margin-bottom: 48px;
+				}
+				img{
+					margin-bottom: 48px;
+				}
+			}
+		}
+	}
+	&-solution{
+		padding: 60px 0;
+		color: #fff;
+		background:url(../img/footer-newsletter.png) no-repeat;
+		background-size: cover;
+		.sc__header__title{
+			color: #FFFFFF;
+		}
+	}
+	&-how{
+		background: #fff
+	}
+	&-faq{
+		padding: 60px 0;
+		position: relative;
+		background: #F8F8F8;
+		&:before{
+		    content: '';
+		    position: absolute;
+		    top: 0;
+		    left: 0;
+		    width: 29%;
+		    height: 28%;
+		    background: url(../img/fund-faq.png) no-repeat;
+		    background-size: contain;
+		    background-position: top left;
+		    pointer-events:none;
+		}
+		.el{
+			&__item{
+				margin-bottom: 40px;
+				&__title{
+					font-weight: 500;
+					font-size: 20px;
+					line-height: 30px;
+					color: #0F2851;
+					margin-bottom: 16px;
+				}
+			}
+		}
+	}
+	@media (min-width:992px) and (max-width:1199px){
+		&-intro{
+			.col-lg-3{
+				width: 50%;
+			}
+		}
+	}
+	@media (max-width: 575px){
+		&-intro {
+		    padding: 0 0 5px;
+		    .el__thumb{
+		    	margin-right: var(--bs-gutter-x, -0.75rem);
+    			margin-left: var(--bs-gutter-x, -0.75rem);
+    			margin-bottom: 30px;
+		    }
+		    .el__sub {
+			    font-size: 18px;
+			    line-height: 28px;
+			    margin-bottom: 16px;
+			}
+		}
+		&-investment {
+		    padding: 30px 0 5px;
+		}
+		&-performance{
+			padding: 30px 0 0;
+			.el__content{
+				img, h3, p {
+					font-size: 18px;
+				    margin-bottom: 30px;
+				}
+			}
+		}
+		&-solution {
+		    padding: 30px 0;
+		    background-image: url(../img/footer-newsletter-mb.jpg);
+		}
+		&-faq {
+		    padding: 30px 0;
+		    .el__item {
+			    margin-bottom: 24px;
+			}
+		}
+
+
+	}
+}
