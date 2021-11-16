@@ -11,7 +11,6 @@
 		.el__excerpt{
 			font-size: 18px;
 			line-height: 28px;
-			text-align: justify;
 			p{
 				&:not(:last-child){
 					margin-bottom: 30px;
@@ -54,7 +53,7 @@
 				padding: 25px 30px;
 				margin-bottom: 25px;
 				background: #84AACE;
-				text-align: justify;
+
 				h4{
 					font-weight: 300;
 					font-size: 32px;
@@ -105,7 +104,7 @@
 				}
 				&__excerpt{
 					margin-top: auto;
-					text-align: justify;
+
 				}
 				&__readmore{
 					color: #E54A35;
@@ -195,7 +194,7 @@
 					margin-bottom: 8px;
 				}
 				&__excerpt{
-					text-align: justify;
+
 				}
 				&__socical{
 					display: flex;
@@ -350,6 +349,7 @@
 		&-value .el__item {
 		    padding: 16px 16px;
 		    margin-bottom: 16px;
+		    text-align: center;
 		}
 		&-media {
 		    padding: 30px 0 10px;

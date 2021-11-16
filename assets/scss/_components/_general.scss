@@ -202,6 +202,11 @@
     @media (max-width: 767px){
         margin-bottom: 24px;
     }
+    @media (max-width: 575px){
+        &__title{
+            font-size: 22px;
+        }
+    }
 }
 .video__item{
     position: relative;

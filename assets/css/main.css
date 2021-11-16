@@ -800,6 +800,9 @@ br.tb {
   @media (max-width: 767px) {
     .new__item {
       margin-bottom: 24px; } }
+  @media (max-width: 575px) {
+    .new__item__title {
+      font-size: 22px; } }
 
 .video__item {
   position: relative;
@@ -999,8 +1002,7 @@ br.tb {
     min-height: 280px; }
   .about-intro .el__excerpt {
     font-size: 18px;
-    line-height: 28px;
-    text-align: justify; }
+    line-height: 28px; }
     .about-intro .el__excerpt p:not(:last-child) {
       margin-bottom: 30px; }
 .about-value {
@@ -1034,8 +1036,7 @@ br.tb {
     color: #143672;
     padding: 25px 30px;
     margin-bottom: 25px;
-    background: #84AACE;
-    text-align: justify; }
+    background: #84AACE; }
     .about-value .el__item h4 {
       font-weight: 300;
       font-size: 32px;
@@ -1074,8 +1075,7 @@ br.tb {
       line-height: 32px;
       margin-bottom: 24px; }
     .about-media .el__item__excerpt {
-      margin-top: auto;
-      text-align: justify; }
+      margin-top: auto; }
     .about-media .el__item__readmore {
       color: #E54A35; }
 .about-partners {
@@ -1136,8 +1136,6 @@ br.tb {
     .about-team .el__item__sub {
       text-align: center;
       margin-bottom: 8px; }
-    .about-team .el__item__excerpt {
-      text-align: justify; }
     .about-team .el__item__socical {
       display: flex;
       justify-content: center;
@@ -1229,7 +1227,8 @@ br.tb {
       margin-bottom: 30px; }
   .about-value .el__item {
     padding: 16px 16px;
-    margin-bottom: 16px; }
+    margin-bottom: 16px;
+    text-align: center; }
   .about-media {
     padding: 30px 0 10px; }
     .about-media .el__title {
@@ -1439,12 +1438,14 @@ br.tb {
     position: absolute;
     top: 0;
     left: 0;
-    width: 29%;
-    height: 28%;
+    width: 500px;
+    height: 500px;
     background: url(../img/fund-faq.png) no-repeat;
     background-size: contain;
     background-position: top left;
     pointer-events: none; }
+  .fund-faq .accordion-item {
+    margin-bottom: 15px; }
   .fund-faq .el__item {
     margin-bottom: 40px; }
     .fund-faq .el__item__title {
@@ -1453,6 +1454,10 @@ br.tb {
       line-height: 30px;
       color: #0F2851;
       margin-bottom: 16px; }
+@media (max-width: 1399px) {
+  .fund-faq:before {
+    width: 300px;
+    height: 300px; } }
 @media (min-width: 992px) and (max-width: 1199px) {
   .fund-intro .col-lg-3 {
     width: 50%; } }
@@ -1479,6 +1484,9 @@ br.tb {
     background-image: url(../img/footer-newsletter-mb.jpg); }
   .fund-faq {
     padding: 30px 0; }
+    .fund-faq:before {
+      width: 160px;
+      height: 160px; }
     .fund-faq .el__item {
       margin-bottom: 24px; } }
 
