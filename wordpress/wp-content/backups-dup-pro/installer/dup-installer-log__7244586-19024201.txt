@@ -1,0 +1,1057 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-0 START @ 03:13:49
+* VERSION: 3.8.7
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ ORIGINAL SERVER                        |CURRENT SERVER
+OS__________________: WINNT                                 |WINNT
+PHP VERSION_________: 7.3.9                                 |7.3.9
+********************************************************************************
+CURRENT SERVER INFO
+PHP_________________: 7.3.9 | SAPI: apache2handler
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+SERVER______________: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.9
+DOC ROOT____________: "D:/xampp/htdocs/wp/j-ventures"
+LOG FILE 644________: false
+REQUEST URL_________: "http://localhost/wp/j-ventures/dup-installer/main.installer.php"
+********************************************************************************
+INSTALLER INFO
+PATH_NEW____________: "D:/xampp/htdocs/wp/j-ventures"
+URL_NEW_____________: "http://localhost/wp/j-ventures"
+********************************************************************************
+
+--------------------------------------
+ARCHIVE INFO
+--------------------------------------
+ARCHIVE NAME________: "D:/xampp/htdocs/wp/j-ventures/20211119_atventures_7244586786f0a25e9636_20211119024201_archive.zip"
+ARCHIVE SIZE________: 39.04MB
+CREATED_____________: 2021-11-19 02:42:01
+WP VERSION__________: 5.8.2
+DUP VERSION_________: 3.8.7
+DB VERSION__________: 10.1.22
+DB FILE SIZE________: 2.78MB
+DB TABLES___________: 14
+DB ROWS_____________: 2472
+ORIGINAL URL________: http://localhost/wp/at-ventures
+PATH HOME___________: D:/xampp/htdocs/wp/at-ventures
+PATH ABS____________: D:/xampp/htdocs/wp/at-ventures
+PATH WPCONFIG_______: D:/xampp/htdocs/wp/at-ventures
+PATH WPCONTENT______: D:/xampp/htdocs/wp/at-ventures/wp-content
+PATH UPLOADS________: D:/xampp/htdocs/wp/at-ventures/wp-content/uploads
+PATH PLUGINS________: D:/xampp/htdocs/wp/at-ventures/wp-content/plugins
+PATH MUPLUGINS______: D:/xampp/htdocs/wp/at-ventures/wp-content/mu-plugins
+PATH THEMES_________: D:/xampp/htdocs/wp/at-ventures/wp-content/themes
+***  PLUGINS ***
+PLUGIN [SLUG:advanced-custom-fields-pro/acf.php                ][ON:true ] Advanced Custom Fields PRO
+PLUGIN [SLUG:akismet/akismet.php                               ][ON:false] Akismet Anti-Spam
+PLUGIN [SLUG:breadcrumb-navxt/breadcrumb-navxt.php             ][ON:true ] Breadcrumb NavXT
+PLUGIN [SLUG:classic-editor/classic-editor.php                 ][ON:true ] Classic Editor
+PLUGIN [SLUG:contact-form-7/wp-contact-form-7.php              ][ON:true ] Contact Form 7
+PLUGIN [SLUG:duplicate-page/duplicatepage.php                  ][ON:true ] Duplicate Page
+PLUGIN [SLUG:duplicator-pro/duplicator-pro.php                 ][ON:true ] Duplicator Pro
+PLUGIN [SLUG:wp-mail-smtp/wp_mail_smtp.php                     ][ON:false] WP Mail SMTP
+--------------------------------------
+--------------------------------------
+
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 03:13:59
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+HOME URL OLD________: "http://localhost/wp/at-ventures"
+HOME URL NEW________: "http://localhost/wp/j-ventures"
+SITE URL OLD________: "http://localhost/wp/at-ventures"
+SITE URL NEW________: "http://localhost/wp/j-ventures"
+CONTENT URL OLD_____: "http://localhost/wp/at-ventures/wp-content"
+CONTENT URL NEW_____: "http://localhost/wp/j-ventures/wp-content"
+UPLOAD URL OLD______: "http://localhost/wp/at-ventures/wp-content/uploads"
+UPLOAD URL NEW______: "http://localhost/wp/j-ventures/wp-content/uploads"
+PLUGINS URL OLD_____: "http://localhost/wp/at-ventures/wp-content/plugins"
+PLUGINS URL NEW_____: "http://localhost/wp/j-ventures/wp-content/plugins"
+MUPLUGINS URL OLD___: "http://localhost/wp/at-ventures/wp-content/mu-plugins"
+MUPLUGINS URL NEW___: "http://localhost/wp/j-ventures/wp-content/mu-plugins"
+HOME PATH OLD_______: "D:/xampp/htdocs/wp/at-ventures"
+HOME PATH NEW_______: "D:/xampp/htdocs/wp/j-ventures"
+SITE PATH OLD_______: "D:/xampp/htdocs/wp/at-ventures"
+SITE PATH NEW_______: "D:/xampp/htdocs/wp/j-ventures"
+CONTENT PATH OLD____: "D:/xampp/htdocs/wp/at-ventures/wp-content"
+CONTENT PATH NEW____: "D:/xampp/htdocs/wp/j-ventures/wp-content"
+UPLOAD PATH OLD_____: "D:/xampp/htdocs/wp/at-ventures/wp-content/uploads"
+UPLOAD PATH NEW_____: "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads"
+PLUGINS PATH OLD____: "D:/xampp/htdocs/wp/at-ventures/wp-content/plugins"
+PLUGINS PATH NEW____: "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins"
+MUPLUGINS PATH OLD__: "D:/xampp/htdocs/wp/at-ventures/wp-content/mu-plugins"
+MUPLUGINS PATH NEW__: "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins"
+ARCHIVE ENGINE______: "ziparchivechunking"
+CLIENT KICKOFF______: false
+SET DIR PERMS_______: false
+DIR PERMS VALUE_____: 755
+SET FILE PERMS______: false
+FILE PERMS VALUE____: 644
+SAFE MODE___________: 0
+LOGGING_____________: 1
+WP CONFIG___________: "modify"
+HTACCESS CONFIG_____: "new"
+OTHER CONFIG________: "new"
+FILE TIME___________: "current"
+REMOVE RENDUNDANT___: false
+********************************************************************************
+
+--------------------------------------
+
+PATHS MAPPING_______: "D:/xampp/htdocs/wp/j-ventures"
+--------------------------------------
+
+
+
+START ZIP FILE EXTRACTION CHUNKING >>> 
+ARCHIVE OFFSET 0
+Expected total archive extract time: 20.068531524445
+Total extraction elapsed time until now: 20.068531524445
+
+
+CONTINUE ZIP FILE EXTRACTION CHUNKING >>> 
+ARCHIVE OFFSET 1688
+Expected total archive extract time: 26.735740768523
+Total extraction elapsed time until now: 26.735740768523
+
+
+CONTINUE ZIP FILE EXTRACTION CHUNKING >>> 
+ARCHIVE OFFSET 2605
+Expected total archive extract time: 30.404472524276
+Total extraction elapsed time until now: 30.404472524276
+
+
+CONTINUE ZIP FILE EXTRACTION CHUNKING >>> 
+ARCHIVE OFFSET 3576
+Expected total archive extract time: 24.236034233537
+Total extraction elapsed time until now: 24.236034233537
+
+
+CONTINUE ZIP FILE EXTRACTION CHUNKING >>> 
+ARCHIVE OFFSET 4583
+Expected total archive extract time: 19.933129292754
+Total extraction elapsed time until now: 19.933129292754
+
+
+CONTINUE ZIP FILE EXTRACTION CHUNKING >>> 
+ARCHIVE OFFSET 5879
+Archive just got done processing last file in list of 6127
+Expected total archive extract time: 18.926211636033
+Total extraction elapsed time until now: 18.926211636033
+
+WEB SERVER CONFIGURATION FILE STATUS:
+- .htaccess file was not reset or backed up.
+- .user.ini file was not reset or backed up.
+- web.config file was not reset or backed up.
+
+STEP-1 COMPLETE @ 03:15:08 - RUNTIME: 68.8584 sec.
+
+-------------------------
+AJAX ACTION dbtest
+
+
+
+********************************************************************************
+* DUPLICATOR PRO INSTALL-LOG
+* STEP-2 START @ 03:16:16
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+TABLE PREFIX________: "wpz_"
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+NON-BREAKING SPACES_: false
+CHARSET_____________: "utf8"
+CHARSET FB__________: false
+CHARSET FB VAL______: "big5"
+COLLATE_____________: "utf8_general_ci"
+COLLATE FB__________: false
+COLLATE FB VAL______: "big5_chinese_ci"
+CUNKING_____________: true
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.1.22 -- Build Server: 10.1.22
+FILE SIZE:	dup-database__7244586-19024201.sql (1.16MB)
+TIMEOUT:	5000
+MAXPACK:	536870912
+SQLMODE-GLOBAL:	NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+COLLATE FB:	Off
+DB CHUNKING:	enabled
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 0
+Auto Commit set to false successfully
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+Starting Cleanup Routine...
+Cleanup Routine Complete
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	0
+
+TABLES ROWS
+
+TABLE "wpz_commentmeta"_________________________________[ROWS:     0]
+TABLE "wpz_comments"____________________________________[ROWS:     1]
+TABLE "wpz_duplicator_pro_entities"_____________________[ROWS:     5]
+TABLE "wpz_duplicator_pro_packages"_____________________[ROWS:     0]
+TABLE "wpz_links"_______________________________________[ROWS:     0]
+TABLE "wpz_options"_____________________________________[ROWS:   165]
+TABLE "wpz_postmeta"____________________________________[ROWS:  2071]
+TABLE "wpz_posts"_______________________________________[ROWS:   200]
+TABLE "wpz_term_relationships"__________________________[ROWS:    34]
+TABLE "wpz_term_taxonomy"_______________________________[ROWS:    12]
+TABLE "wpz_termmeta"____________________________________[ROWS:     0]
+TABLE "wpz_terms"_______________________________________[ROWS:    12]
+TABLE "wpz_usermeta"____________________________________[ROWS:    25]
+TABLE "wpz_users"_______________________________________[ROWS:     1]
+
+DATABASE CACHE/TRANSITIENT [ROWS:    26]
+
+INSERT DATA RUNTIME: 0.3299 sec.
+STEP-2 COMPLETE @ 03:16:22 - RUNTIME: 0.3348 sec.
+
+====================================
+SET SEARCH AND REPLACE LIST
+====================================
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 03:16:31
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+blogname______________: "J Ventures"
+url_old_______________: "http://localhost/wp/at-ventures"
+url_new_______________: "http://localhost/wp/j-ventures"
+siteurl_______________: "http://localhost/wp/j-ventures"
+path_new______________: "D:/xampp/htdocs/wp/j-ventures"
+path_old______________: "D:/xampp/htdocs/wp/at-ventures"
+replace_mode__________: "legacy"
+empty_schedule_storage: true
+mode_chunking_________: 1
+wp_username___________: ""
+wp_mail_______________: ""
+wp_nickname___________: ""
+wp_first_name_________: ""
+wp_last_name__________: ""
+cross_search__________: true
+postguid______________: false
+fullsearch____________: false
+replaceMail___________: false
+maxSerializeStrlen____: 4000000
+auth_keys_and_salts___: false
+action_mu_mode________: -1
+DISALLOW_FILE_EDIT____: Array
+(
+    [value] => 
+    [inWpConfig] => 
+)
+
+AUTOSAVE_INTERVAL_____: Array
+(
+    [value] => 60
+    [inWpConfig] => 
+)
+
+WP_POST_REVISIONS_____: Array
+(
+    [value] => 1
+    [inWpConfig] => 
+)
+
+FORCE_SSL_ADMIN_______: Array
+(
+    [value] => 
+    [inWpConfig] => 
+)
+
+WP_AUTO_UPDATE_CORE___: Array
+(
+    [value] => false
+    [inWpConfig] => 
+)
+
+WP_CACHE______________: Array
+(
+    [value] => 
+    [inWpConfig] => 
+)
+
+WPCACHEHOME___________: Array
+(
+    [value] => 
+    [inWpConfig] => 
+)
+
+WP_DEBUG______________: Array
+(
+    [value] => 
+    [inWpConfig] => 1
+)
+
+WP_DEBUG_LOG__________: Array
+(
+    [value] => 
+    [inWpConfig] => 
+)
+
+WP_DEBUG_DISPLAY______: Array
+(
+    [value] => 1
+    [inWpConfig] => 
+)
+
+SCRIPT_DEBUG__________: Array
+(
+    [value] => 
+    [inWpConfig] => 
+)
+
+SAVEQUERIES___________: Array
+(
+    [value] => 
+    [inWpConfig] => 
+)
+
+COOKIE_DOMAIN_________: Array
+(
+    [value] => 
+    [inWpConfig] => 
+)
+
+WP_MEMORY_LIMIT_______: Array
+(
+    [value] => 40M
+    [inWpConfig] => 
+)
+
+WP_MAX_MEMORY_LIMIT___: Array
+(
+    [value] => 900M
+    [inWpConfig] => 
+)
+
+********************************************************************************
+
+
+====================================
+RUN SEARCH AND REPLACE
+====================================
+
+EVALUATE TABLE: "wpz_commentmeta"_________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpz_comments"____________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"D:\xampp\htdocs\wp\at-ventures/wp-content/uploads/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads/"
+	SEARCH  2:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/uploads\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads\/"
+	SEARCH  3:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fuploads%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads%2F"
+	SEARCH  4:"D:/xampp/htdocs/wp/at-ventures/wp-content/uploads/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads/"
+	SEARCH  5:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/uploads\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads\/"
+	SEARCH  6:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fuploads%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads%2F"
+	SEARCH  7:"D:\xampp\htdocs\wp\at-ventures\wp-content\uploads" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads"
+	SEARCH  8:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\uploads" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads"
+	SEARCH  9:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cuploads" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads"
+	SEARCH 10:"D:\xampp\htdocs\wp\at-ventures/wp-content/plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins/"
+	SEARCH 11:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins\/"
+	SEARCH 12:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fplugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins%2F"
+	SEARCH 13:"D:/xampp/htdocs/wp/at-ventures/wp-content/plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins/"
+	SEARCH 14:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins\/"
+	SEARCH 15:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fplugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins%2F"
+	SEARCH 16:"D:\xampp\htdocs\wp\at-ventures\wp-content\plugins" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins"
+	SEARCH 17:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\plugins" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins"
+	SEARCH 18:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cplugins" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins"
+	SEARCH 19:"D:\xampp\htdocs\wp\at-ventures/wp-content/mu-plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins/"
+	SEARCH 20:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/mu-plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins\/"
+	SEARCH 21:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fmu-plugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins%2F"
+	SEARCH 22:"D:/xampp/htdocs/wp/at-ventures/wp-content/mu-plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins/"
+	SEARCH 23:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/mu-plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins\/"
+	SEARCH 24:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fmu-plugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins%2F"
+	SEARCH 25:"D:\xampp\htdocs\wp\at-ventures\wp-content\mu-plugins" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins"
+	SEARCH 26:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\mu-plugins" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins"
+	SEARCH 27:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cmu-plugins" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins"
+	SEARCH 28:"D:\xampp\htdocs\wp\at-ventures/wp-content/" ======> "D:/xampp/htdocs/wp/j-ventures/wp-content/"
+	SEARCH 29:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/"
+	SEARCH 30:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2F"
+	SEARCH 31:"D:/xampp/htdocs/wp/at-ventures/wp-content/" ======> "D:/xampp/htdocs/wp/j-ventures/wp-content/"
+	SEARCH 32:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/"
+	SEARCH 33:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2F"
+	SEARCH 34:"D:\xampp\htdocs\wp\at-ventures\wp-content" =======> "D:/xampp/htdocs/wp/j-ventures/wp-content"
+	SEARCH 35:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content" ==> "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content"
+	SEARCH 36:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content"
+	SEARCH 37:"D:\xampp\htdocs\wp\at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 38:"D:\\xampp\\htdocs\\wp\\at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 39:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 40:"D:/xampp/htdocs/wp/at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 41:"D:\/xampp\/htdocs\/wp\/at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 42:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 43:"D:\xampp\htdocs\wp\at-ventures" ==================> "D:/xampp/htdocs/wp/j-ventures"
+	SEARCH 44:"D:\\xampp\\htdocs\\wp\\at-ventures" ==============> "D:\/xampp\/htdocs\/wp\/j-ventures"
+	SEARCH 45:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures" ========> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures"
+	SEARCH 46:"D:/xampp/htdocs/wp/at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 47:"D:\/xampp\/htdocs\/wp\/at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 48:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 49:"D:\xampp\htdocs\wp\at-ventures" ==================> "D:/xampp/htdocs/wp/j-ventures"
+	SEARCH 50:"D:\\xampp\\htdocs\\wp\\at-ventures" ==============> "D:\/xampp\/htdocs\/wp\/j-ventures"
+	SEARCH 51:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures" ========> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures"
+	SEARCH 52:"//localhost/wp/at-ventures" ======================> "//localhost/wp/j-ventures"
+	SEARCH 53:"\/\/localhost\/wp\/at-ventures" ==================> "\/\/localhost\/wp\/j-ventures"
+	SEARCH 54:"%2F%2Flocalhost%2Fwp%2Fat-ventures" ==============> "%2F%2Flocalhost%2Fwp%2Fj-ventures"
+	SEARCH 55:"https://localhost/wp/j-ventures" =================> "http://localhost/wp/j-ventures"
+	SEARCH 56:"https:\/\/localhost\/wp\/j-ventures" =============> "http:\/\/localhost\/wp\/j-ventures"
+	SEARCH 57:"https%3A%2F%2Flocalhost%2Fwp%2Fj-ventures" =======> "http%3A%2F%2Flocalhost%2Fwp%2Fj-ventures"
+
+EVALUATE TABLE: "wpz_duplicator_pro_entities"_____________________[ROWS:     5][PG:   1][SCAN:text columns]
+	SEARCH  1:"D:\xampp\htdocs\wp\at-ventures/wp-content/uploads/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads/"
+	SEARCH  2:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/uploads\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads\/"
+	SEARCH  3:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fuploads%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads%2F"
+	SEARCH  4:"D:/xampp/htdocs/wp/at-ventures/wp-content/uploads/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads/"
+	SEARCH  5:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/uploads\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads\/"
+	SEARCH  6:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fuploads%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads%2F"
+	SEARCH  7:"D:\xampp\htdocs\wp\at-ventures\wp-content\uploads" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads"
+	SEARCH  8:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\uploads" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads"
+	SEARCH  9:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cuploads" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads"
+	SEARCH 10:"D:\xampp\htdocs\wp\at-ventures/wp-content/plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins/"
+	SEARCH 11:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins\/"
+	SEARCH 12:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fplugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins%2F"
+	SEARCH 13:"D:/xampp/htdocs/wp/at-ventures/wp-content/plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins/"
+	SEARCH 14:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins\/"
+	SEARCH 15:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fplugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins%2F"
+	SEARCH 16:"D:\xampp\htdocs\wp\at-ventures\wp-content\plugins" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins"
+	SEARCH 17:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\plugins" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins"
+	SEARCH 18:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cplugins" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins"
+	SEARCH 19:"D:\xampp\htdocs\wp\at-ventures/wp-content/mu-plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins/"
+	SEARCH 20:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/mu-plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins\/"
+	SEARCH 21:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fmu-plugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins%2F"
+	SEARCH 22:"D:/xampp/htdocs/wp/at-ventures/wp-content/mu-plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins/"
+	SEARCH 23:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/mu-plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins\/"
+	SEARCH 24:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fmu-plugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins%2F"
+	SEARCH 25:"D:\xampp\htdocs\wp\at-ventures\wp-content\mu-plugins" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins"
+	SEARCH 26:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\mu-plugins" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins"
+	SEARCH 27:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cmu-plugins" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins"
+	SEARCH 28:"D:\xampp\htdocs\wp\at-ventures/wp-content/" ======> "D:/xampp/htdocs/wp/j-ventures/wp-content/"
+	SEARCH 29:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/"
+	SEARCH 30:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2F"
+	SEARCH 31:"D:/xampp/htdocs/wp/at-ventures/wp-content/" ======> "D:/xampp/htdocs/wp/j-ventures/wp-content/"
+	SEARCH 32:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/"
+	SEARCH 33:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2F"
+	SEARCH 34:"D:\xampp\htdocs\wp\at-ventures\wp-content" =======> "D:/xampp/htdocs/wp/j-ventures/wp-content"
+	SEARCH 35:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content" ==> "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content"
+	SEARCH 36:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content"
+	SEARCH 37:"D:\xampp\htdocs\wp\at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 38:"D:\\xampp\\htdocs\\wp\\at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 39:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 40:"D:/xampp/htdocs/wp/at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 41:"D:\/xampp\/htdocs\/wp\/at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 42:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 43:"D:\xampp\htdocs\wp\at-ventures" ==================> "D:/xampp/htdocs/wp/j-ventures"
+	SEARCH 44:"D:\\xampp\\htdocs\\wp\\at-ventures" ==============> "D:\/xampp\/htdocs\/wp\/j-ventures"
+	SEARCH 45:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures" ========> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures"
+	SEARCH 46:"D:/xampp/htdocs/wp/at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 47:"D:\/xampp\/htdocs\/wp\/at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 48:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 49:"D:\xampp\htdocs\wp\at-ventures" ==================> "D:/xampp/htdocs/wp/j-ventures"
+	SEARCH 50:"D:\\xampp\\htdocs\\wp\\at-ventures" ==============> "D:\/xampp\/htdocs\/wp\/j-ventures"
+	SEARCH 51:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures" ========> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures"
+	SEARCH 52:"//localhost/wp/at-ventures" ======================> "//localhost/wp/j-ventures"
+	SEARCH 53:"\/\/localhost\/wp\/at-ventures" ==================> "\/\/localhost\/wp\/j-ventures"
+	SEARCH 54:"%2F%2Flocalhost%2Fwp%2Fat-ventures" ==============> "%2F%2Flocalhost%2Fwp%2Fj-ventures"
+	SEARCH 55:"https://localhost/wp/j-ventures" =================> "http://localhost/wp/j-ventures"
+	SEARCH 56:"https:\/\/localhost\/wp\/j-ventures" =============> "http:\/\/localhost\/wp\/j-ventures"
+	SEARCH 57:"https%3A%2F%2Flocalhost%2Fwp%2Fj-ventures" =======> "http%3A%2F%2Flocalhost%2Fwp%2Fj-ventures"
+
+EVALUATE TABLE: "wpz_duplicator_pro_packages"_____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpz_links"_______________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpz_options"_____________________________________[ROWS:   165][PG:   1][SCAN:text columns]
+	SEARCH  1:"D:\xampp\htdocs\wp\at-ventures/wp-content/uploads/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads/"
+	SEARCH  2:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/uploads\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads\/"
+	SEARCH  3:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fuploads%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads%2F"
+	SEARCH  4:"D:/xampp/htdocs/wp/at-ventures/wp-content/uploads/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads/"
+	SEARCH  5:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/uploads\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads\/"
+	SEARCH  6:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fuploads%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads%2F"
+	SEARCH  7:"D:\xampp\htdocs\wp\at-ventures\wp-content\uploads" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads"
+	SEARCH  8:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\uploads" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads"
+	SEARCH  9:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cuploads" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads"
+	SEARCH 10:"D:\xampp\htdocs\wp\at-ventures/wp-content/plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins/"
+	SEARCH 11:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins\/"
+	SEARCH 12:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fplugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins%2F"
+	SEARCH 13:"D:/xampp/htdocs/wp/at-ventures/wp-content/plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins/"
+	SEARCH 14:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins\/"
+	SEARCH 15:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fplugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins%2F"
+	SEARCH 16:"D:\xampp\htdocs\wp\at-ventures\wp-content\plugins" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins"
+	SEARCH 17:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\plugins" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins"
+	SEARCH 18:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cplugins" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins"
+	SEARCH 19:"D:\xampp\htdocs\wp\at-ventures/wp-content/mu-plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins/"
+	SEARCH 20:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/mu-plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins\/"
+	SEARCH 21:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fmu-plugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins%2F"
+	SEARCH 22:"D:/xampp/htdocs/wp/at-ventures/wp-content/mu-plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins/"
+	SEARCH 23:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/mu-plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins\/"
+	SEARCH 24:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fmu-plugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins%2F"
+	SEARCH 25:"D:\xampp\htdocs\wp\at-ventures\wp-content\mu-plugins" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins"
+	SEARCH 26:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\mu-plugins" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins"
+	SEARCH 27:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cmu-plugins" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins"
+	SEARCH 28:"D:\xampp\htdocs\wp\at-ventures/wp-content/" ======> "D:/xampp/htdocs/wp/j-ventures/wp-content/"
+	SEARCH 29:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/"
+	SEARCH 30:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2F"
+	SEARCH 31:"D:/xampp/htdocs/wp/at-ventures/wp-content/" ======> "D:/xampp/htdocs/wp/j-ventures/wp-content/"
+	SEARCH 32:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/"
+	SEARCH 33:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2F"
+	SEARCH 34:"D:\xampp\htdocs\wp\at-ventures\wp-content" =======> "D:/xampp/htdocs/wp/j-ventures/wp-content"
+	SEARCH 35:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content" ==> "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content"
+	SEARCH 36:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content"
+	SEARCH 37:"D:\xampp\htdocs\wp\at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 38:"D:\\xampp\\htdocs\\wp\\at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 39:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 40:"D:/xampp/htdocs/wp/at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 41:"D:\/xampp\/htdocs\/wp\/at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 42:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 43:"D:\xampp\htdocs\wp\at-ventures" ==================> "D:/xampp/htdocs/wp/j-ventures"
+	SEARCH 44:"D:\\xampp\\htdocs\\wp\\at-ventures" ==============> "D:\/xampp\/htdocs\/wp\/j-ventures"
+	SEARCH 45:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures" ========> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures"
+	SEARCH 46:"D:/xampp/htdocs/wp/at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 47:"D:\/xampp\/htdocs\/wp\/at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 48:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 49:"D:\xampp\htdocs\wp\at-ventures" ==================> "D:/xampp/htdocs/wp/j-ventures"
+	SEARCH 50:"D:\\xampp\\htdocs\\wp\\at-ventures" ==============> "D:\/xampp\/htdocs\/wp\/j-ventures"
+	SEARCH 51:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures" ========> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures"
+	SEARCH 52:"//localhost/wp/at-ventures" ======================> "//localhost/wp/j-ventures"
+	SEARCH 53:"\/\/localhost\/wp\/at-ventures" ==================> "\/\/localhost\/wp\/j-ventures"
+	SEARCH 54:"%2F%2Flocalhost%2Fwp%2Fat-ventures" ==============> "%2F%2Flocalhost%2Fwp%2Fj-ventures"
+	SEARCH 55:"https://localhost/wp/j-ventures" =================> "http://localhost/wp/j-ventures"
+	SEARCH 56:"https:\/\/localhost\/wp\/j-ventures" =============> "http:\/\/localhost\/wp\/j-ventures"
+	SEARCH 57:"https%3A%2F%2Flocalhost%2Fwp%2Fj-ventures" =======> "http%3A%2F%2Flocalhost%2Fwp%2Fj-ventures"
+
+EVALUATE TABLE: "wpz_postmeta"____________________________________[ROWS:  2071][PG:   1][SCAN:text columns]
+	SEARCH  1:"D:\xampp\htdocs\wp\at-ventures/wp-content/uploads/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads/"
+	SEARCH  2:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/uploads\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads\/"
+	SEARCH  3:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fuploads%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads%2F"
+	SEARCH  4:"D:/xampp/htdocs/wp/at-ventures/wp-content/uploads/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads/"
+	SEARCH  5:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/uploads\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads\/"
+	SEARCH  6:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fuploads%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads%2F"
+	SEARCH  7:"D:\xampp\htdocs\wp\at-ventures\wp-content\uploads" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads"
+	SEARCH  8:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\uploads" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads"
+	SEARCH  9:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cuploads" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads"
+	SEARCH 10:"D:\xampp\htdocs\wp\at-ventures/wp-content/plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins/"
+	SEARCH 11:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins\/"
+	SEARCH 12:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fplugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins%2F"
+	SEARCH 13:"D:/xampp/htdocs/wp/at-ventures/wp-content/plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins/"
+	SEARCH 14:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins\/"
+	SEARCH 15:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fplugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins%2F"
+	SEARCH 16:"D:\xampp\htdocs\wp\at-ventures\wp-content\plugins" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins"
+	SEARCH 17:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\plugins" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins"
+	SEARCH 18:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cplugins" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins"
+	SEARCH 19:"D:\xampp\htdocs\wp\at-ventures/wp-content/mu-plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins/"
+	SEARCH 20:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/mu-plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins\/"
+	SEARCH 21:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fmu-plugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins%2F"
+	SEARCH 22:"D:/xampp/htdocs/wp/at-ventures/wp-content/mu-plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins/"
+	SEARCH 23:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/mu-plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins\/"
+	SEARCH 24:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fmu-plugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins%2F"
+	SEARCH 25:"D:\xampp\htdocs\wp\at-ventures\wp-content\mu-plugins" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins"
+	SEARCH 26:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\mu-plugins" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins"
+	SEARCH 27:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cmu-plugins" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins"
+	SEARCH 28:"D:\xampp\htdocs\wp\at-ventures/wp-content/" ======> "D:/xampp/htdocs/wp/j-ventures/wp-content/"
+	SEARCH 29:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/"
+	SEARCH 30:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2F"
+	SEARCH 31:"D:/xampp/htdocs/wp/at-ventures/wp-content/" ======> "D:/xampp/htdocs/wp/j-ventures/wp-content/"
+	SEARCH 32:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/"
+	SEARCH 33:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2F"
+	SEARCH 34:"D:\xampp\htdocs\wp\at-ventures\wp-content" =======> "D:/xampp/htdocs/wp/j-ventures/wp-content"
+	SEARCH 35:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content" ==> "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content"
+	SEARCH 36:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content"
+	SEARCH 37:"D:\xampp\htdocs\wp\at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 38:"D:\\xampp\\htdocs\\wp\\at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 39:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 40:"D:/xampp/htdocs/wp/at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 41:"D:\/xampp\/htdocs\/wp\/at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 42:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 43:"D:\xampp\htdocs\wp\at-ventures" ==================> "D:/xampp/htdocs/wp/j-ventures"
+	SEARCH 44:"D:\\xampp\\htdocs\\wp\\at-ventures" ==============> "D:\/xampp\/htdocs\/wp\/j-ventures"
+	SEARCH 45:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures" ========> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures"
+	SEARCH 46:"D:/xampp/htdocs/wp/at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 47:"D:\/xampp\/htdocs\/wp\/at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 48:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 49:"D:\xampp\htdocs\wp\at-ventures" ==================> "D:/xampp/htdocs/wp/j-ventures"
+	SEARCH 50:"D:\\xampp\\htdocs\\wp\\at-ventures" ==============> "D:\/xampp\/htdocs\/wp\/j-ventures"
+	SEARCH 51:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures" ========> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures"
+	SEARCH 52:"//localhost/wp/at-ventures" ======================> "//localhost/wp/j-ventures"
+	SEARCH 53:"\/\/localhost\/wp\/at-ventures" ==================> "\/\/localhost\/wp\/j-ventures"
+	SEARCH 54:"%2F%2Flocalhost%2Fwp%2Fat-ventures" ==============> "%2F%2Flocalhost%2Fwp%2Fj-ventures"
+	SEARCH 55:"https://localhost/wp/j-ventures" =================> "http://localhost/wp/j-ventures"
+	SEARCH 56:"https:\/\/localhost\/wp\/j-ventures" =============> "http:\/\/localhost\/wp\/j-ventures"
+	SEARCH 57:"https%3A%2F%2Flocalhost%2Fwp%2Fj-ventures" =======> "http%3A%2F%2Flocalhost%2Fwp%2Fj-ventures"
+
+EVALUATE TABLE: "wpz_posts"_______________________________________[ROWS:   200][PG:   1][SCAN:text columns]
+	SEARCH  1:"D:\xampp\htdocs\wp\at-ventures/wp-content/uploads/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads/"
+	SEARCH  2:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/uploads\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads\/"
+	SEARCH  3:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fuploads%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads%2F"
+	SEARCH  4:"D:/xampp/htdocs/wp/at-ventures/wp-content/uploads/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads/"
+	SEARCH  5:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/uploads\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads\/"
+	SEARCH  6:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fuploads%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads%2F"
+	SEARCH  7:"D:\xampp\htdocs\wp\at-ventures\wp-content\uploads" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads"
+	SEARCH  8:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\uploads" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads"
+	SEARCH  9:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cuploads" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads"
+	SEARCH 10:"D:\xampp\htdocs\wp\at-ventures/wp-content/plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins/"
+	SEARCH 11:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins\/"
+	SEARCH 12:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fplugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins%2F"
+	SEARCH 13:"D:/xampp/htdocs/wp/at-ventures/wp-content/plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins/"
+	SEARCH 14:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins\/"
+	SEARCH 15:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fplugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins%2F"
+	SEARCH 16:"D:\xampp\htdocs\wp\at-ventures\wp-content\plugins" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins"
+	SEARCH 17:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\plugins" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins"
+	SEARCH 18:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cplugins" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins"
+	SEARCH 19:"D:\xampp\htdocs\wp\at-ventures/wp-content/mu-plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins/"
+	SEARCH 20:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/mu-plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins\/"
+	SEARCH 21:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fmu-plugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins%2F"
+	SEARCH 22:"D:/xampp/htdocs/wp/at-ventures/wp-content/mu-plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins/"
+	SEARCH 23:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/mu-plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins\/"
+	SEARCH 24:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fmu-plugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins%2F"
+	SEARCH 25:"D:\xampp\htdocs\wp\at-ventures\wp-content\mu-plugins" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins"
+	SEARCH 26:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\mu-plugins" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins"
+	SEARCH 27:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cmu-plugins" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins"
+	SEARCH 28:"D:\xampp\htdocs\wp\at-ventures/wp-content/" ======> "D:/xampp/htdocs/wp/j-ventures/wp-content/"
+	SEARCH 29:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/"
+	SEARCH 30:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2F"
+	SEARCH 31:"D:/xampp/htdocs/wp/at-ventures/wp-content/" ======> "D:/xampp/htdocs/wp/j-ventures/wp-content/"
+	SEARCH 32:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/"
+	SEARCH 33:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2F"
+	SEARCH 34:"D:\xampp\htdocs\wp\at-ventures\wp-content" =======> "D:/xampp/htdocs/wp/j-ventures/wp-content"
+	SEARCH 35:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content" ==> "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content"
+	SEARCH 36:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content"
+	SEARCH 37:"D:\xampp\htdocs\wp\at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 38:"D:\\xampp\\htdocs\\wp\\at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 39:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 40:"D:/xampp/htdocs/wp/at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 41:"D:\/xampp\/htdocs\/wp\/at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 42:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 43:"D:\xampp\htdocs\wp\at-ventures" ==================> "D:/xampp/htdocs/wp/j-ventures"
+	SEARCH 44:"D:\\xampp\\htdocs\\wp\\at-ventures" ==============> "D:\/xampp\/htdocs\/wp\/j-ventures"
+	SEARCH 45:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures" ========> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures"
+	SEARCH 46:"D:/xampp/htdocs/wp/at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 47:"D:\/xampp\/htdocs\/wp\/at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 48:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 49:"D:\xampp\htdocs\wp\at-ventures" ==================> "D:/xampp/htdocs/wp/j-ventures"
+	SEARCH 50:"D:\\xampp\\htdocs\\wp\\at-ventures" ==============> "D:\/xampp\/htdocs\/wp\/j-ventures"
+	SEARCH 51:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures" ========> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures"
+	SEARCH 52:"//localhost/wp/at-ventures" ======================> "//localhost/wp/j-ventures"
+	SEARCH 53:"\/\/localhost\/wp\/at-ventures" ==================> "\/\/localhost\/wp\/j-ventures"
+	SEARCH 54:"%2F%2Flocalhost%2Fwp%2Fat-ventures" ==============> "%2F%2Flocalhost%2Fwp%2Fj-ventures"
+	SEARCH 55:"https://localhost/wp/j-ventures" =================> "http://localhost/wp/j-ventures"
+	SEARCH 56:"https:\/\/localhost\/wp\/j-ventures" =============> "http:\/\/localhost\/wp\/j-ventures"
+	SEARCH 57:"https%3A%2F%2Flocalhost%2Fwp%2Fj-ventures" =======> "http%3A%2F%2Flocalhost%2Fwp%2Fj-ventures"
+
+EVALUATE TABLE: "wpz_term_relationships"__________________________[ROWS:    34][PG:   1][SCAN:text columns]
+	SEARCH  1:"D:\xampp\htdocs\wp\at-ventures/wp-content/uploads/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads/"
+	SEARCH  2:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/uploads\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads\/"
+	SEARCH  3:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fuploads%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads%2F"
+	SEARCH  4:"D:/xampp/htdocs/wp/at-ventures/wp-content/uploads/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads/"
+	SEARCH  5:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/uploads\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads\/"
+	SEARCH  6:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fuploads%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads%2F"
+	SEARCH  7:"D:\xampp\htdocs\wp\at-ventures\wp-content\uploads" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads"
+	SEARCH  8:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\uploads" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads"
+	SEARCH  9:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cuploads" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads"
+	SEARCH 10:"D:\xampp\htdocs\wp\at-ventures/wp-content/plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins/"
+	SEARCH 11:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins\/"
+	SEARCH 12:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fplugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins%2F"
+	SEARCH 13:"D:/xampp/htdocs/wp/at-ventures/wp-content/plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins/"
+	SEARCH 14:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins\/"
+	SEARCH 15:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fplugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins%2F"
+	SEARCH 16:"D:\xampp\htdocs\wp\at-ventures\wp-content\plugins" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins"
+	SEARCH 17:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\plugins" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins"
+	SEARCH 18:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cplugins" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins"
+	SEARCH 19:"D:\xampp\htdocs\wp\at-ventures/wp-content/mu-plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins/"
+	SEARCH 20:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/mu-plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins\/"
+	SEARCH 21:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fmu-plugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins%2F"
+	SEARCH 22:"D:/xampp/htdocs/wp/at-ventures/wp-content/mu-plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins/"
+	SEARCH 23:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/mu-plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins\/"
+	SEARCH 24:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fmu-plugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins%2F"
+	SEARCH 25:"D:\xampp\htdocs\wp\at-ventures\wp-content\mu-plugins" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins"
+	SEARCH 26:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\mu-plugins" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins"
+	SEARCH 27:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cmu-plugins" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins"
+	SEARCH 28:"D:\xampp\htdocs\wp\at-ventures/wp-content/" ======> "D:/xampp/htdocs/wp/j-ventures/wp-content/"
+	SEARCH 29:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/"
+	SEARCH 30:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2F"
+	SEARCH 31:"D:/xampp/htdocs/wp/at-ventures/wp-content/" ======> "D:/xampp/htdocs/wp/j-ventures/wp-content/"
+	SEARCH 32:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/"
+	SEARCH 33:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2F"
+	SEARCH 34:"D:\xampp\htdocs\wp\at-ventures\wp-content" =======> "D:/xampp/htdocs/wp/j-ventures/wp-content"
+	SEARCH 35:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content" ==> "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content"
+	SEARCH 36:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content"
+	SEARCH 37:"D:\xampp\htdocs\wp\at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 38:"D:\\xampp\\htdocs\\wp\\at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 39:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 40:"D:/xampp/htdocs/wp/at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 41:"D:\/xampp\/htdocs\/wp\/at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 42:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 43:"D:\xampp\htdocs\wp\at-ventures" ==================> "D:/xampp/htdocs/wp/j-ventures"
+	SEARCH 44:"D:\\xampp\\htdocs\\wp\\at-ventures" ==============> "D:\/xampp\/htdocs\/wp\/j-ventures"
+	SEARCH 45:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures" ========> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures"
+	SEARCH 46:"D:/xampp/htdocs/wp/at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 47:"D:\/xampp\/htdocs\/wp\/at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 48:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 49:"D:\xampp\htdocs\wp\at-ventures" ==================> "D:/xampp/htdocs/wp/j-ventures"
+	SEARCH 50:"D:\\xampp\\htdocs\\wp\\at-ventures" ==============> "D:\/xampp\/htdocs\/wp\/j-ventures"
+	SEARCH 51:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures" ========> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures"
+	SEARCH 52:"//localhost/wp/at-ventures" ======================> "//localhost/wp/j-ventures"
+	SEARCH 53:"\/\/localhost\/wp\/at-ventures" ==================> "\/\/localhost\/wp\/j-ventures"
+	SEARCH 54:"%2F%2Flocalhost%2Fwp%2Fat-ventures" ==============> "%2F%2Flocalhost%2Fwp%2Fj-ventures"
+	SEARCH 55:"https://localhost/wp/j-ventures" =================> "http://localhost/wp/j-ventures"
+	SEARCH 56:"https:\/\/localhost\/wp\/j-ventures" =============> "http:\/\/localhost\/wp\/j-ventures"
+	SEARCH 57:"https%3A%2F%2Flocalhost%2Fwp%2Fj-ventures" =======> "http%3A%2F%2Flocalhost%2Fwp%2Fj-ventures"
+
+EVALUATE TABLE: "wpz_term_taxonomy"_______________________________[ROWS:    12][PG:   1][SCAN:text columns]
+	SEARCH  1:"D:\xampp\htdocs\wp\at-ventures/wp-content/uploads/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads/"
+	SEARCH  2:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/uploads\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads\/"
+	SEARCH  3:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fuploads%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads%2F"
+	SEARCH  4:"D:/xampp/htdocs/wp/at-ventures/wp-content/uploads/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads/"
+	SEARCH  5:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/uploads\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads\/"
+	SEARCH  6:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fuploads%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads%2F"
+	SEARCH  7:"D:\xampp\htdocs\wp\at-ventures\wp-content\uploads" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads"
+	SEARCH  8:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\uploads" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads"
+	SEARCH  9:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cuploads" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads"
+	SEARCH 10:"D:\xampp\htdocs\wp\at-ventures/wp-content/plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins/"
+	SEARCH 11:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins\/"
+	SEARCH 12:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fplugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins%2F"
+	SEARCH 13:"D:/xampp/htdocs/wp/at-ventures/wp-content/plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins/"
+	SEARCH 14:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins\/"
+	SEARCH 15:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fplugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins%2F"
+	SEARCH 16:"D:\xampp\htdocs\wp\at-ventures\wp-content\plugins" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins"
+	SEARCH 17:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\plugins" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins"
+	SEARCH 18:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cplugins" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins"
+	SEARCH 19:"D:\xampp\htdocs\wp\at-ventures/wp-content/mu-plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins/"
+	SEARCH 20:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/mu-plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins\/"
+	SEARCH 21:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fmu-plugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins%2F"
+	SEARCH 22:"D:/xampp/htdocs/wp/at-ventures/wp-content/mu-plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins/"
+	SEARCH 23:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/mu-plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins\/"
+	SEARCH 24:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fmu-plugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins%2F"
+	SEARCH 25:"D:\xampp\htdocs\wp\at-ventures\wp-content\mu-plugins" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins"
+	SEARCH 26:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\mu-plugins" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins"
+	SEARCH 27:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cmu-plugins" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins"
+	SEARCH 28:"D:\xampp\htdocs\wp\at-ventures/wp-content/" ======> "D:/xampp/htdocs/wp/j-ventures/wp-content/"
+	SEARCH 29:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/"
+	SEARCH 30:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2F"
+	SEARCH 31:"D:/xampp/htdocs/wp/at-ventures/wp-content/" ======> "D:/xampp/htdocs/wp/j-ventures/wp-content/"
+	SEARCH 32:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/"
+	SEARCH 33:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2F"
+	SEARCH 34:"D:\xampp\htdocs\wp\at-ventures\wp-content" =======> "D:/xampp/htdocs/wp/j-ventures/wp-content"
+	SEARCH 35:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content" ==> "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content"
+	SEARCH 36:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content"
+	SEARCH 37:"D:\xampp\htdocs\wp\at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 38:"D:\\xampp\\htdocs\\wp\\at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 39:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 40:"D:/xampp/htdocs/wp/at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 41:"D:\/xampp\/htdocs\/wp\/at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 42:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 43:"D:\xampp\htdocs\wp\at-ventures" ==================> "D:/xampp/htdocs/wp/j-ventures"
+	SEARCH 44:"D:\\xampp\\htdocs\\wp\\at-ventures" ==============> "D:\/xampp\/htdocs\/wp\/j-ventures"
+	SEARCH 45:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures" ========> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures"
+	SEARCH 46:"D:/xampp/htdocs/wp/at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 47:"D:\/xampp\/htdocs\/wp\/at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 48:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 49:"D:\xampp\htdocs\wp\at-ventures" ==================> "D:/xampp/htdocs/wp/j-ventures"
+	SEARCH 50:"D:\\xampp\\htdocs\\wp\\at-ventures" ==============> "D:\/xampp\/htdocs\/wp\/j-ventures"
+	SEARCH 51:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures" ========> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures"
+	SEARCH 52:"//localhost/wp/at-ventures" ======================> "//localhost/wp/j-ventures"
+	SEARCH 53:"\/\/localhost\/wp\/at-ventures" ==================> "\/\/localhost\/wp\/j-ventures"
+	SEARCH 54:"%2F%2Flocalhost%2Fwp%2Fat-ventures" ==============> "%2F%2Flocalhost%2Fwp%2Fj-ventures"
+	SEARCH 55:"https://localhost/wp/j-ventures" =================> "http://localhost/wp/j-ventures"
+	SEARCH 56:"https:\/\/localhost\/wp\/j-ventures" =============> "http:\/\/localhost\/wp\/j-ventures"
+	SEARCH 57:"https%3A%2F%2Flocalhost%2Fwp%2Fj-ventures" =======> "http%3A%2F%2Flocalhost%2Fwp%2Fj-ventures"
+
+EVALUATE TABLE: "wpz_termmeta"____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpz_terms"_______________________________________[ROWS:    12][PG:   1][SCAN:text columns]
+	SEARCH  1:"D:\xampp\htdocs\wp\at-ventures/wp-content/uploads/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads/"
+	SEARCH  2:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/uploads\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads\/"
+	SEARCH  3:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fuploads%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads%2F"
+	SEARCH  4:"D:/xampp/htdocs/wp/at-ventures/wp-content/uploads/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads/"
+	SEARCH  5:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/uploads\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads\/"
+	SEARCH  6:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fuploads%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads%2F"
+	SEARCH  7:"D:\xampp\htdocs\wp\at-ventures\wp-content\uploads" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads"
+	SEARCH  8:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\uploads" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads"
+	SEARCH  9:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cuploads" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads"
+	SEARCH 10:"D:\xampp\htdocs\wp\at-ventures/wp-content/plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins/"
+	SEARCH 11:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins\/"
+	SEARCH 12:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fplugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins%2F"
+	SEARCH 13:"D:/xampp/htdocs/wp/at-ventures/wp-content/plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins/"
+	SEARCH 14:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins\/"
+	SEARCH 15:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fplugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins%2F"
+	SEARCH 16:"D:\xampp\htdocs\wp\at-ventures\wp-content\plugins" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins"
+	SEARCH 17:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\plugins" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins"
+	SEARCH 18:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cplugins" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins"
+	SEARCH 19:"D:\xampp\htdocs\wp\at-ventures/wp-content/mu-plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins/"
+	SEARCH 20:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/mu-plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins\/"
+	SEARCH 21:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fmu-plugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins%2F"
+	SEARCH 22:"D:/xampp/htdocs/wp/at-ventures/wp-content/mu-plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins/"
+	SEARCH 23:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/mu-plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins\/"
+	SEARCH 24:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fmu-plugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins%2F"
+	SEARCH 25:"D:\xampp\htdocs\wp\at-ventures\wp-content\mu-plugins" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins"
+	SEARCH 26:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\mu-plugins" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins"
+	SEARCH 27:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cmu-plugins" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins"
+	SEARCH 28:"D:\xampp\htdocs\wp\at-ventures/wp-content/" ======> "D:/xampp/htdocs/wp/j-ventures/wp-content/"
+	SEARCH 29:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/"
+	SEARCH 30:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2F"
+	SEARCH 31:"D:/xampp/htdocs/wp/at-ventures/wp-content/" ======> "D:/xampp/htdocs/wp/j-ventures/wp-content/"
+	SEARCH 32:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/"
+	SEARCH 33:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2F"
+	SEARCH 34:"D:\xampp\htdocs\wp\at-ventures\wp-content" =======> "D:/xampp/htdocs/wp/j-ventures/wp-content"
+	SEARCH 35:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content" ==> "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content"
+	SEARCH 36:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content"
+	SEARCH 37:"D:\xampp\htdocs\wp\at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 38:"D:\\xampp\\htdocs\\wp\\at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 39:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 40:"D:/xampp/htdocs/wp/at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 41:"D:\/xampp\/htdocs\/wp\/at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 42:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 43:"D:\xampp\htdocs\wp\at-ventures" ==================> "D:/xampp/htdocs/wp/j-ventures"
+	SEARCH 44:"D:\\xampp\\htdocs\\wp\\at-ventures" ==============> "D:\/xampp\/htdocs\/wp\/j-ventures"
+	SEARCH 45:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures" ========> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures"
+	SEARCH 46:"D:/xampp/htdocs/wp/at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 47:"D:\/xampp\/htdocs\/wp\/at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 48:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 49:"D:\xampp\htdocs\wp\at-ventures" ==================> "D:/xampp/htdocs/wp/j-ventures"
+	SEARCH 50:"D:\\xampp\\htdocs\\wp\\at-ventures" ==============> "D:\/xampp\/htdocs\/wp\/j-ventures"
+	SEARCH 51:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures" ========> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures"
+	SEARCH 52:"//localhost/wp/at-ventures" ======================> "//localhost/wp/j-ventures"
+	SEARCH 53:"\/\/localhost\/wp\/at-ventures" ==================> "\/\/localhost\/wp\/j-ventures"
+	SEARCH 54:"%2F%2Flocalhost%2Fwp%2Fat-ventures" ==============> "%2F%2Flocalhost%2Fwp%2Fj-ventures"
+	SEARCH 55:"https://localhost/wp/j-ventures" =================> "http://localhost/wp/j-ventures"
+	SEARCH 56:"https:\/\/localhost\/wp\/j-ventures" =============> "http:\/\/localhost\/wp\/j-ventures"
+	SEARCH 57:"https%3A%2F%2Flocalhost%2Fwp%2Fj-ventures" =======> "http%3A%2F%2Flocalhost%2Fwp%2Fj-ventures"
+
+EVALUATE TABLE: "wpz_usermeta"____________________________________[ROWS:    25][PG:   1][SCAN:text columns]
+	SEARCH  1:"D:\xampp\htdocs\wp\at-ventures/wp-content/uploads/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads/"
+	SEARCH  2:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/uploads\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads\/"
+	SEARCH  3:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fuploads%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads%2F"
+	SEARCH  4:"D:/xampp/htdocs/wp/at-ventures/wp-content/uploads/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads/"
+	SEARCH  5:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/uploads\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads\/"
+	SEARCH  6:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fuploads%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads%2F"
+	SEARCH  7:"D:\xampp\htdocs\wp\at-ventures\wp-content\uploads" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads"
+	SEARCH  8:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\uploads" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads"
+	SEARCH  9:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cuploads" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads"
+	SEARCH 10:"D:\xampp\htdocs\wp\at-ventures/wp-content/plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins/"
+	SEARCH 11:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins\/"
+	SEARCH 12:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fplugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins%2F"
+	SEARCH 13:"D:/xampp/htdocs/wp/at-ventures/wp-content/plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins/"
+	SEARCH 14:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins\/"
+	SEARCH 15:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fplugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins%2F"
+	SEARCH 16:"D:\xampp\htdocs\wp\at-ventures\wp-content\plugins" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins"
+	SEARCH 17:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\plugins" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins"
+	SEARCH 18:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cplugins" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins"
+	SEARCH 19:"D:\xampp\htdocs\wp\at-ventures/wp-content/mu-plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins/"
+	SEARCH 20:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/mu-plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins\/"
+	SEARCH 21:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fmu-plugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins%2F"
+	SEARCH 22:"D:/xampp/htdocs/wp/at-ventures/wp-content/mu-plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins/"
+	SEARCH 23:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/mu-plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins\/"
+	SEARCH 24:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fmu-plugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins%2F"
+	SEARCH 25:"D:\xampp\htdocs\wp\at-ventures\wp-content\mu-plugins" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins"
+	SEARCH 26:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\mu-plugins" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins"
+	SEARCH 27:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cmu-plugins" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins"
+	SEARCH 28:"D:\xampp\htdocs\wp\at-ventures/wp-content/" ======> "D:/xampp/htdocs/wp/j-ventures/wp-content/"
+	SEARCH 29:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/"
+	SEARCH 30:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2F"
+	SEARCH 31:"D:/xampp/htdocs/wp/at-ventures/wp-content/" ======> "D:/xampp/htdocs/wp/j-ventures/wp-content/"
+	SEARCH 32:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/"
+	SEARCH 33:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2F"
+	SEARCH 34:"D:\xampp\htdocs\wp\at-ventures\wp-content" =======> "D:/xampp/htdocs/wp/j-ventures/wp-content"
+	SEARCH 35:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content" ==> "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content"
+	SEARCH 36:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content"
+	SEARCH 37:"D:\xampp\htdocs\wp\at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 38:"D:\\xampp\\htdocs\\wp\\at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 39:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 40:"D:/xampp/htdocs/wp/at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 41:"D:\/xampp\/htdocs\/wp\/at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 42:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 43:"D:\xampp\htdocs\wp\at-ventures" ==================> "D:/xampp/htdocs/wp/j-ventures"
+	SEARCH 44:"D:\\xampp\\htdocs\\wp\\at-ventures" ==============> "D:\/xampp\/htdocs\/wp\/j-ventures"
+	SEARCH 45:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures" ========> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures"
+	SEARCH 46:"D:/xampp/htdocs/wp/at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 47:"D:\/xampp\/htdocs\/wp\/at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 48:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 49:"D:\xampp\htdocs\wp\at-ventures" ==================> "D:/xampp/htdocs/wp/j-ventures"
+	SEARCH 50:"D:\\xampp\\htdocs\\wp\\at-ventures" ==============> "D:\/xampp\/htdocs\/wp\/j-ventures"
+	SEARCH 51:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures" ========> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures"
+	SEARCH 52:"//localhost/wp/at-ventures" ======================> "//localhost/wp/j-ventures"
+	SEARCH 53:"\/\/localhost\/wp\/at-ventures" ==================> "\/\/localhost\/wp\/j-ventures"
+	SEARCH 54:"%2F%2Flocalhost%2Fwp%2Fat-ventures" ==============> "%2F%2Flocalhost%2Fwp%2Fj-ventures"
+	SEARCH 55:"https://localhost/wp/j-ventures" =================> "http://localhost/wp/j-ventures"
+	SEARCH 56:"https:\/\/localhost\/wp\/j-ventures" =============> "http:\/\/localhost\/wp\/j-ventures"
+	SEARCH 57:"https%3A%2F%2Flocalhost%2Fwp%2Fj-ventures" =======> "http%3A%2F%2Flocalhost%2Fwp%2Fj-ventures"
+
+EVALUATE TABLE: "wpz_users"_______________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"D:\xampp\htdocs\wp\at-ventures/wp-content/uploads/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads/"
+	SEARCH  2:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/uploads\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads\/"
+	SEARCH  3:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fuploads%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads%2F"
+	SEARCH  4:"D:/xampp/htdocs/wp/at-ventures/wp-content/uploads/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads/"
+	SEARCH  5:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/uploads\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads\/"
+	SEARCH  6:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fuploads%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads%2F"
+	SEARCH  7:"D:\xampp\htdocs\wp\at-ventures\wp-content\uploads" => "D:/xampp/htdocs/wp/j-ventures/wp-content/uploads"
+	SEARCH  8:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\uploads" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/uploads"
+	SEARCH  9:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cuploads" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fuploads"
+	SEARCH 10:"D:\xampp\htdocs\wp\at-ventures/wp-content/plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins/"
+	SEARCH 11:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins\/"
+	SEARCH 12:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fplugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins%2F"
+	SEARCH 13:"D:/xampp/htdocs/wp/at-ventures/wp-content/plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins/"
+	SEARCH 14:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins\/"
+	SEARCH 15:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fplugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins%2F"
+	SEARCH 16:"D:\xampp\htdocs\wp\at-ventures\wp-content\plugins" => "D:/xampp/htdocs/wp/j-ventures/wp-content/plugins"
+	SEARCH 17:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\plugins" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/plugins"
+	SEARCH 18:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cplugins" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fplugins"
+	SEARCH 19:"D:\xampp\htdocs\wp\at-ventures/wp-content/mu-plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins/"
+	SEARCH 20:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/mu-plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins\/"
+	SEARCH 21:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2Fmu-plugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins%2F"
+	SEARCH 22:"D:/xampp/htdocs/wp/at-ventures/wp-content/mu-plugins/" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins/"
+	SEARCH 23:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/mu-plugins\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins\/"
+	SEARCH 24:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2Fmu-plugins%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins%2F"
+	SEARCH 25:"D:\xampp\htdocs\wp\at-ventures\wp-content\mu-plugins" => "D:/xampp/htdocs/wp/j-ventures/wp-content/mu-plugins"
+	SEARCH 26:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content\\mu-plugins" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/mu-plugins"
+	SEARCH 27:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content%5Cmu-plugins" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2Fmu-plugins"
+	SEARCH 28:"D:\xampp\htdocs\wp\at-ventures/wp-content/" ======> "D:/xampp/htdocs/wp/j-ventures/wp-content/"
+	SEARCH 29:"D:\\xampp\\htdocs\\wp\\at-ventures\/wp-content\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/"
+	SEARCH 30:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2Fwp-content%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2F"
+	SEARCH 31:"D:/xampp/htdocs/wp/at-ventures/wp-content/" ======> "D:/xampp/htdocs/wp/j-ventures/wp-content/"
+	SEARCH 32:"D:\/xampp\/htdocs\/wp\/at-ventures\/wp-content\/" => "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content\/"
+	SEARCH 33:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2Fwp-content%2F" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content%2F"
+	SEARCH 34:"D:\xampp\htdocs\wp\at-ventures\wp-content" =======> "D:/xampp/htdocs/wp/j-ventures/wp-content"
+	SEARCH 35:"D:\\xampp\\htdocs\\wp\\at-ventures\\wp-content" ==> "D:\/xampp\/htdocs\/wp\/j-ventures\/wp-content"
+	SEARCH 36:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%5Cwp-content" => "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2Fwp-content"
+	SEARCH 37:"D:\xampp\htdocs\wp\at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 38:"D:\\xampp\\htdocs\\wp\\at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 39:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 40:"D:/xampp/htdocs/wp/at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 41:"D:\/xampp\/htdocs\/wp\/at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 42:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 43:"D:\xampp\htdocs\wp\at-ventures" ==================> "D:/xampp/htdocs/wp/j-ventures"
+	SEARCH 44:"D:\\xampp\\htdocs\\wp\\at-ventures" ==============> "D:\/xampp\/htdocs\/wp\/j-ventures"
+	SEARCH 45:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures" ========> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures"
+	SEARCH 46:"D:/xampp/htdocs/wp/at-ventures/" =================> "D:/xampp/htdocs/wp/j-ventures/"
+	SEARCH 47:"D:\/xampp\/htdocs\/wp\/at-ventures\/" ============> "D:\/xampp\/htdocs\/wp\/j-ventures\/"
+	SEARCH 48:"D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fat-ventures%2F" =====> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures%2F"
+	SEARCH 49:"D:\xampp\htdocs\wp\at-ventures" ==================> "D:/xampp/htdocs/wp/j-ventures"
+	SEARCH 50:"D:\\xampp\\htdocs\\wp\\at-ventures" ==============> "D:\/xampp\/htdocs\/wp\/j-ventures"
+	SEARCH 51:"D%3A%5Cxampp%5Chtdocs%5Cwp%5Cat-ventures" ========> "D%3A%2Fxampp%2Fhtdocs%2Fwp%2Fj-ventures"
+	SEARCH 52:"//localhost/wp/at-ventures" ======================> "//localhost/wp/j-ventures"
+	SEARCH 53:"\/\/localhost\/wp\/at-ventures" ==================> "\/\/localhost\/wp\/j-ventures"
+	SEARCH 54:"%2F%2Flocalhost%2Fwp%2Fat-ventures" ==============> "%2F%2Flocalhost%2Fwp%2Fj-ventures"
+	SEARCH 55:"https://localhost/wp/j-ventures" =================> "http://localhost/wp/j-ventures"
+	SEARCH 56:"https:\/\/localhost\/wp\/j-ventures" =============> "http:\/\/localhost\/wp\/j-ventures"
+	SEARCH 57:"https%3A%2F%2Flocalhost%2Fwp%2Fj-ventures" =======> "http%3A%2F%2Flocalhost%2Fwp%2Fj-ventures"
+--------------------------------------
+SCANNED:	Tables:14 	|	 Rows:2526 	|	 Cells:13906 
+UPDATED:	Tables:5 	|	 Rows:208 	|	 Cells:244 
+ERRORS:		0 
+RUNTIME:	0.482700 sec
+
+====================================
+REMOVE MAINTENANCE MODE
+====================================
+
+====================================
+REMOVE LICENSE KEY
+====================================
+
+====================================
+CREATE NEW ADMIN USER
+====================================
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE DB_NAME ""tam_j-venture""
+	UPDATE DB_USER ""admin""
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	WP CONFIG UPDATE WP_DEBUG false
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE
+====================================
+
+WEB SERVER CONFIGURATION FILE UPDATED:
+- Preparing .htaccess file with basic setup.
+- Successfully updated the .htaccess file setting.
+
+====================================
+GENERAL UPDATES
+====================================
+
+====================================
+MANAGE PLUGINS
+====================================
+Activated plugins listed here will be deactivated: Array
+(
+)
+
+
+====================================
+GENERAL CLEANUP
+====================================
+- Removed '0' schedule storage items
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+
+====================================
+CLEANUP TMP FILES
+====================================
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 03:16:32 - RUNTIME: 1.1444 sec. 
+
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[INFO] No general notices
+	SECTIONS: general
+
+-----------------------
+[INFO] No errors in database
+	SECTIONS: database
+
+-----------------------
+[INFO] No search and replace data errors
+	SECTIONS: search_replace
+
+-----------------------
+[INFO] No files extraction errors
+	SECTIONS: files
+
+====================================

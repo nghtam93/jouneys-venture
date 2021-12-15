@@ -1,0 +1,84 @@
+.insights{
+	&-intro{
+		padding: 60px 0;
+		.el__thumb{
+			margin-bottom: 60px;
+			.dnfix__thumb{
+				padding-top: 44%;
+				min-height: 280px;
+			}
+		}
+	}
+	&-crypto{
+		padding: 60px 0 35px;
+		background: #F8F8F8;
+		.el__title{
+			font-weight: 500;
+			font-size: 30px;
+			line-height: 32px;
+			color: #0F2851;
+			margin-bottom: 40px;
+		}
+		.el__item{
+			margin-bottom: 60px;
+			&__title{
+				font-weight: 300;
+				font-size: 30px;
+				line-height: 32px;
+				color: #0F2851;
+				margin-bottom: 16px;
+			}
+			&__excerpt{
+				p+p{
+					margin-top: 30px;
+				}
+			}
+		}
+		.el2__item{
+			margin-bottom: 25px;
+			&__title{
+				font-weight: bold;
+				font-size: 18px;
+				line-height: 21px;
+				color: #0F2851;
+				margin-bottom: 24px;
+			}
+		}
+	}
+	@media (max-width: 1199px){
+		&-crypto .el2__item__title {
+		    font-size: 16px;
+		}
+	}
+	@media (max-width: 767px){
+		&-crypto{
+			.el__title {
+			    font-size: 20px;
+				line-height: 23px;
+			    margin-bottom: 24px;
+			}
+			.el__item {
+			    margin-bottom: 24px;
+			}
+			.el__item__title {
+			    font-size: 20px;
+				line-height: 32px;
+				margin-bottom: 16px;
+			}
+		}
+
+	}
+	@media (max-width: 575px){
+		&-intro {
+		    padding: 0 0 14px;
+		    .el__thumb{
+		    	margin-right: var(--bs-gutter-x, -0.75rem);
+    			margin-left: var(--bs-gutter-x, -0.75rem);
+    			margin-bottom: 30px;
+		    }
+		}
+		&-crypto {
+		    padding: 30px 0 5px;
+		}
+	}
+}

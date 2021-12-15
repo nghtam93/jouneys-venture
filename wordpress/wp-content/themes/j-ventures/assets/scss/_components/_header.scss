@@ -1,0 +1,38 @@
+.header{
+	position: relative;
+	top: 0;
+	left: 0;
+	width: 100%;
+	max-width:100%;
+	z-index: 10;
+	background-color: #fff;
+	border-bottom: 1px solid #ECECEC;
+	&.is-sticky{
+		position: fixed;
+		animation:stuckMoveDown .6s;
+	}
+	.logo{
+		margin-bottom: 0;
+		transition: opacity .5s;
+		img{
+			max-height: 50px;
+		}
+	}
+
+	@media (max-width: 991px){
+		padding: 15px 0 15px;
+
+		.logo {
+		    flex-grow: 1;
+		    text-align: center;
+		    img{
+		    	max-height: 40px;
+		    }
+		}
+	}
+
+}
+@keyframes stuckMoveDown{
+    0%{transform:translateY(-100%)}
+    100%{transform:translateY(0)}
+}

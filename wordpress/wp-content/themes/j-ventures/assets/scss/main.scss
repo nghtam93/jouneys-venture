@@ -1,0 +1,20 @@
+@import "../fonts/Roboto/stylesheet.css";
+@import "../fonts/icomoon/style.css";
+
+@import "../libs/bootstrap/css/bootstrap.css";
+@import "_components/animate";
+
+// Component
+@import "_components/base";
+@import "_components/header";
+@import "_components/footer";
+@import "_components/menu";
+@import "_components/general";
+
+// Page
+@import "_pages/home";
+@import "_pages/about";
+@import "_pages/contact";
+@import "_pages/fund";
+@import "_pages/insights";
+@import "_pages/single";
